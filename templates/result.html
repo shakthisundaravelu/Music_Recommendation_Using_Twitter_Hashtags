@@ -1,0 +1,114 @@
+<html>
+<head>
+
+<link href="https://fonts.googleapis.com/css?family=Archivo" rel="stylesheet">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+<style>
+	body{
+		background: linear-gradient( rgba(0,0,0,0.7), rgba(0, 0, 0, 0.7) ), url(../static/2.jpg);
+		background-repeat: no-repeat;
+		background-position: center;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+    width:100%;
+	}
+	.h1{
+		color: white;
+		font-family: 'Archivo', sans-serif;
+		padding-top: 200px
+	}
+	.form-control{
+		width:20%;
+	}
+	.btn-primary{
+		margin-left: 10px;
+		padding-top: 10px;
+
+	}
+	.tweet{
+		font-family: 'Archivo', sans-serif;
+	}
+  table{
+    background: rgb(0,0,0,0.7);
+    margin-left: 10px;
+    margin-right:10px;
+    border: 7px solid black;
+  }
+
+</style>
+</head>
+
+<body>
+
+
+<br>
+<form action="/" method="GET" >
+<input class = "btn btn-primary" type="submit" value="Go Back">
+</form>
+<table  width="98%" >
+{% for row in tweets %}
+    <tr class="rowCon">
+      <td class="tweet" style="color:white">{{ row }}</td>
+	<script>
+		console.log({{ loop.index0 }});
+	</script>
+      <td><button class ="btn btn-primary btn-sm" type="button" data-toggle="modal" data-target="#exampleModal" onclick="getrecom({{ loop.index0 }});" >Show</button></td>
+    </tr>
+    <tr><td>&nbsp</td></tr>
+{% endfor %}
+
+</table>
+
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="false">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h3 class="modal-title" id="exampleModalLabel" style="float:left">Recommended Songs</h3>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div id="modalBody" class="modal-body">
+
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+ <script>
+
+
+ function getrecom(val){
+   document.getElementById("modalBody").innerHTML = '...';
+ $.ajax({
+			url: '/getRec',
+			data:'id='+val,
+			type: 'POST',
+			dataType: 'json',
+			success: function(response){
+			    console.log(response);
+				console.log(response.length);
+        str='<ol>';
+        for(i=0;i<response.length;i++){
+        str=str+"<li>"+response[i]+"</li>";
+          }
+        str = str + "</ol>"
+
+        document.getElementById("modalBody").innerHTML = str;
+			},
+			error: function(error){
+				console.log("err occured")
+				alert("Oops! Something Went Wrong...Please Try Again Or Select Another Tweet");
+				console.log(error);
+			}
+		});
+ }
+  </script>
+</body>
+</html>
