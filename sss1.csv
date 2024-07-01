@@ -1,0 +1,808 @@
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,No,Datetime,Tweet,Artist,Genre,song,Album,Unnamed: 5,Sentiment
+0,0,0,0,1,1/17/2019 7:36,"b'looked up the lyrics to this and went ""oh  #nowplaying from paris to berlin  infernal'",Infernal,Trance,From Paris to Berlin,From Paris to Berlin,,Neutral
+1,1,1,1,2,1/17/2019 7:36,b'#nowplaying #NPbot Truth  TrySail  Truth.',TrySail,Anime,Truth,TrySail,,Neutral
+2,2,2,2,4,1/17/2019 7:36,b'#NowPlaying Bob Seger The Silver Bullet Band  Old Time Rock And Roll : Tune In ',Bob Seger,Rock,The Silver Bullet Band  Old Time Rock And Roll,Stranger in Town,,Positive
+3,3,3,3,6,1/17/2019 7:36,b'#NowPlaying The Drifters Saturday Night At The Movies [HLz  Unknown #TuneIn #AmazonEcho #InternetRadio \n',The Drifters,Rock,The Drifters Saturday Night At The Movies,Save the Last Dance for Me,,Negative
+4,4,4,4,7,1/17/2019 7:36,b'Jona Bird  Fliehn #nowplaying',Jona Bird,Alternative,Jona Bird  Fliehn,Es ist vier Uhr morgens und vor meinem Fenster verliert die Nacht gegen den Tag,,Neutral
+5,5,5,5,8,1/17/2019 7:36,b'#NowPlaying Der Kommissar (7 Version by After the Fire',After the Fire,Rock,Der Kommissar,Der Kommissar,,Neutral
+6,6,6,6,9,1/17/2019 7:36,b'#NowPlaying on Angie FM Sexy Eyes  Dr Hook #retro   ',Dr. Hook & the Medicine Show,Rock,Sexy Eyes  Dr Hook,Sometimes You Win,,Positive
+7,7,7,7,10,1/17/2019 7:36,"b""RT   #NowPlaying  Boston  It's Easy    #ClassicRock""",Boston,Pop,Boston It's Easy,Don't Look Back,,Positive
+8,8,8,8,12,1/17/2019 7:36,b'#NowPlaying Saint Asonia  Better Place',Saint Asonia,Rock,Saint Asonia  Better Place,Saint Asonia,,Positive
+9,9,9,9,13,1/17/2019 7:36,b'#NowPlaying ROKE  Morte Perfeita  dark new school trap amor vida slow )',ROKE,Pop,Morte Perfeita,dark new school trap amor vida slow,,Negative
+10,10,10,10,14,1/17/2019 7:36,b'#NowPlaying Logic  City Of Stars \n#903networkradio',Logic,Rap,City Of Stars,The Incredible True Story,,Neutral
+11,11,11,11,15,1/17/2019 7:35,b'#live  #onlineradioever      #NowPlaying   Chris Brown  Questions  \n#music     #HappyNewYear',Chris Brown,Pop,Questions,Heartbreak on a Full Moon,,Positive
+12,12,12,12,17,1/17/2019 7:35,"b""#NowPlaying Casting Crowns  If We've Ever Needed You via """,Casting Crowns,Christian,If We've Ever Needed You via ,Until the Whole World Hears,,Neutral
+13,13,13,13,18,1/17/2019 7:35,b'Bunga Citra Lestari  Jera #NowPlaying Download player',Bunga Citra Lestari,POP,Jera,Bunga Citra Lestari  Jera,,Neutral
+14,14,14,14,20,1/17/2019 7:35,"b""#NowPlaying Won't He Do It   by   Listen online at  """,Koryn Hawthorne,Soul,Won't He Do It,Greenleaf,,Neutral
+15,15,15,15,21,1/17/2019 7:35,b'#NowPlaying Better by Hezekiah Walker on #UrbanRadio Gospel Hits ',Hezekiah Walker,Christian, Better,Azusa The Next Generation 2,,Positive
+16,16,16,16,23,1/17/2019 7:35,"b""#NOWPLAYING Lil Woot  Can't Be Denied 2  Flip Sum (Explicit Circle Radio  """,Lil Woot,Rap,Flip Sum,Can't Be Denied 2,,Neutral
+17,17,17,17,24,1/17/2019 7:35,"b""#NowPlaying Drew Davidsen  I Can't Help It : Tune In    Buy It  """,Drew Davidsen,Jazz,I Can't Help It,True Drew,,Neutral
+18,18,18,18,25,1/17/2019 7:35,b'#NowPlaying on  Up All Night by  ',One Direction,Rock,Up All Night,Syco Music,,Neutral
+19,19,19,19,26,1/17/2019 7:35,b'Smile by Durand Jones and The Indications from Durand Jones and The Indications #NowPlaying #CollegeRadio',Durand Jones and The Indications,Pop,Smile,Durand Jones and The Indications,,Positive
+20,20,20,20,27,1/17/2019 7:35,b'#Nowplaying Ame no parade  Whats your name?',Ame No Parade,Rock,Whats your name?, Reason of Black Color,,Negative
+21,21,21,21,28,1/17/2019 7:35,b'#NowPlaying N I B by Black Sabbath', Black Sabbath,rock,N I B,Black Sabbath,,Negative
+22,22,22,22,29,1/17/2019 7:35,b'#nowplaying   GARNiDELiA',Mai Mizuhashi & Toku-P,POP,GARNiDELiA,Sacra Music,,Neutral
+23,23,23,23,31,1/17/2019 7:35,b'HERBERT VON KARAJAN BERLINER PHILLHARMONIKER VON LUDWIG VAN BEETHOVEN BEI DER PROBE DER IX SYMPHONIES D-MOLL OP ',HERBERT VON KARAJAN,POP, BERLINER PHILLHARMONIKER VON LUDWIG VAN BEETHOVEN ,BEI DER PROBE DER IX SYMPHONIES D-MOLL OP,,Neutral
+24,24,24,24,32,1/17/2019 7:35,b'#Nowplaying on the station Guena LG &amp Amir Afargan feat Sophie Ellis-Bextor  Back 2 Paradise (Main Version ',Guena LG & Amir Afargan,Electronic,Back 2 Paradise,Album: Momentum,,Positive
+25,25,25,25,33,1/17/2019 7:35,b'#nowplaying the Underside of Power  Algiers (The Underside of Power  2017  ',Algiers,Pop,the Underside of Power,Algiers,,Neutral
+26,26,26,26,34,1/17/2019 7:35,b'#NowPlaying 39 Lafayette Street by Jerry Goldsmith   Seconds ',Jerry Goldsmith,POP,Seconds,Lafayette Street,,Neutral
+27,27,27,27,35,1/17/2019 7:35,b'VeeJay (Prod TFI  GBEMISAYA  #NowPlaying on Da Blessing Production Radio \nlisten at  ',CDQ,christian,GBEMISAYA,Quality,,Neutral
+28,28,28,28,36,1/17/2019 7:35,b'#NowPlaying Stop Look Listen (To Your Heart by The Stylistics on #UrbanRadio Smooth R&amp;B ',The Stylistics,pop,Stop Look Listen,The Stylistics,,Positive
+29,29,29,29,37,1/17/2019 7:35,"b""I'm listening to   with   #NowPlaying """,Chris McClarney,Christian,I'm listening to with,Breakthrough,,Neutral
+30,30,30,30,38,1/17/2019 7:35,"b'#NowPlaying ""We\'ll Always Love Big Poppa by The Lox on   '",The Lox,Contemporary ,We'll Always Love Big Poppa,Money & Power & Respect,,Negative
+31,31,31,31,39,1/17/2019 7:35,b'#NowPlaying Award Tour by A Tribe Called Quest on #UrbanRadio Old School Hip Hop ',A Tribe Called Quest,Rap,A Tribe Called Quest,Midnight Marauders,,Positive
+32,32,32,32,40,1/17/2019 7:35,"b""#NowPlaying Concerto per violoncello e orchestra d'archi in re maggiore by Giuseppe Tartini (1692-1770 #Bosna """,Giuseppe Tartini,Christian,Concerto per violoncello, e orchestra d'archi in re maggiore,,Neutral
+33,33,33,33,41,1/17/2019 7:35,b'#NowPlaying Starboy by The Weeknd on #UrbanRadio New R&amp;B ',The Weeknd,Soul,Starboy,Starboy,,Positive
+34,34,34,34,45,1/17/2019 7:35,b'#NowPlaying Julia Michaels  Issues (Alan Walker Remix)',Julia Michaels,pop,Issues,Nervous System,,Neutral
+35,35,35,35,46,1/17/2019 7:35,b'Ahora Escuchas a Dire Straits  Walk Of Life #NowPlaying ', Dire Straits,rock,Walk Of Life,Brothers in Arms,,Neutral
+36,36,36,36,48,1/17/2019 7:34,b'#NowPlaying ZZ Top  Decision Or Collision (91 Listen at  ', ZZ Top,Rock,Decision Or Collision, Recycler,,Positive
+37,37,37,37,49,1/17/2019 7:34,b'#Nowplaying on    Domenique Dumont  Sans Cesse Mon Chri', Domenique Dumont,Electronic,Sans Cesse Mon Chri,Miniatures de auto rhythm,,Neutral
+38,38,38,38,50,1/17/2019 7:34,b'#NowPlaying Luke Bryan  #LightItUp On ',Luke Bryan,Country,Light It Up On,What Makes You Country,,Neutral
+39,39,39,39,52,1/17/2019 7:34,b'#NowPlaying on AM1700   Wynton Marsalis Septet  Winter Wonderland',Wynton Marsalis Septet,christian,winter wonderland,Christmas,,Neutral
+40,40,40,40,54,1/17/2019 7:34,b'RT   #NowPlaying   #bigplans',Why Don't We,pop,big plans,big plans,,Neutral
+41,41,41,41,56,1/17/2019 7:34,"b'Listening to "" ISAYEVA  Keep It Real (April 2018)  by O ISAYEVA #nowplaying'",KYLE,pop,keep it real, Beautiful Loser,,Negative
+42,42,42,42,57,1/17/2019 7:34,b'Pity Me by Paula Standing  #NowPlaying', Paula Standing,Folk,Pity Me ,Good Heart,,Negative
+43,43,43,43,58,1/17/2019 7:34,b'RT   #NowPlaying   #bigplans',Why Don't We,pop,big plans,big plans,,Neutral
+44,44,44,44,59,1/17/2019 7:34,b'#Nowplaying Give It A Go  Pet Shop Boys (Elysium ', Pet Shop Boys,Electronic,Give It A Go , Elysium,,Neutral
+45,45,45,45,63,1/17/2019 7:34,b'#NowPlaying   #bigplans',Why Don't We,pop,big plans,big plans,,Neutral
+46,46,46,46,65,1/17/2019 7:34,b'Skycraper  Demi Lovato #NowPlaying #IstaraFM [14:34 wib]', Demi Lovato,pop,skyscraper,Unbroken,,Neutral
+47,47,47,47,67,1/17/2019 7:34,b'#Nowplaying Rabbit Hole   ', Blink-182,rock,rabbit hole ,California,,Neutral
+48,48,48,48,69,1/17/2019 7:34,"b""#NowPlaying Vogue (12'' by Madonna on  in #RVA  Please Like &amp RT #80sChildRadio""", Madonna,pop,vogue ,I'm Breathless,,Neutral
+49,49,49,49,70,1/17/2019 7:34,b'Strange Fish by SENDELICA.. #nowPlaying at  #instrumentalmusic  Turn On Tune In Wig Out.', SENDELICA,rock,Strange Fish ,Strange Fish,,Negative
+50,50,50,50,71,1/17/2019 7:34,b'#NowPlaying Purity    Mighty God (Reloaded  Ft Mike Abdul on ',Mike Abdul,rock,Mighty God,Purity    ,,Negative
+51,51,51,51,72,1/17/2019 7:34,"b""#NowPlaying Beyonce  President's Daughter  Save my soul                                   Save My Soul(1 on #LifecomRadio.org,uk""",Beyonce,pop,Save my soul,President's Daughter,,Neutral
+52,52,52,52,73,1/17/2019 7:34,b'#NowPlaying Mi Cama [XBF  Karol G Ft J Balvin Y Nicky Jam solo por ', Karol G& J Balvin,Pop,Mi Cama,Nicky Jam,,Neutral
+53,53,53,53,74,1/17/2019 7:34,b'#NowPlaying Reasons by Earth Wind &amp Fire on #UrbanRadio Slow Jams ',Earth,funk,Reasons by Earth Wind,That's the Way of the World,,Negative
+54,54,54,54,75,1/17/2019 7:34,b'#Nowplaying Daydream Syndrome   ',Marina Fujiwara,Anime,Daydream Syndrome,Daydream Syndrome,,Neutral
+55,55,55,55,77,1/17/2019 7:34,b'#NowPlaying 24k Magic by Bruno Mars on #UrbanRadio Hip Hop and R&amp;B ',Bruno Mars ,pop,24k Magic ,24k Magic,,Positive
+56,56,56,56,78,1/17/2019 7:34,b'Mother by Danzig  #NowPlaying',Danzig, Alt Metal,Mother,Danzig,,Neutral
+57,57,57,57,79,1/17/2019 7:34,b'Happy Birthday by Golf Pichaya  #NowPlaying',Golf Pichaya,Pop,Happy Birthday, Pichaya,,Negative
+58,58,58,58,80,1/17/2019 7:34,b'albumELECTRO ASYL-BOP -SOUL FLOWER UNION #SOULFLOWERUNION #nowplaying',Soul Flower Union,rock,ELECTRO ASYL-BOP,ELECTRO ASYL-BOP,,Neutral
+59,59,59,59,82,1/17/2019 7:34,b'D12  Shit on you  #nowplaying',D12,pop,Shit on you  , Devil's Night,,Negative
+60,60,60,60,84,1/17/2019 7:34,b'Te Quiero un Poco by Carlos Sadness  #NowPlaying',Carlos Sadness,pop,Te Quiero un Poco , Diferentes Tipos de Luz,,Neutral
+61,61,61,61,86,1/17/2019 7:34,b'NE1fm 102.5 is #NowPlaying  Army of Two by Olly Murs',Olly Murs,Christian,Army of Two,Right Place Right Time,,Neutral
+62,62,62,62,87,1/17/2019 7:34,"b""  Madelyn Victoria #Music now playing on   with 2 albums ''Madelyn Victoria'' ''Right Her """,Madelyn Victoria,Country,Right Here,Right Here,,Negative
+63,63,63,63,88,1/17/2019 7:34,b'#NowPlaying Light the way [U9A  Phil Thompson', Phil Thompson,christian,Light the way,My Worship,,Negative
+64,64,64,64,89,1/17/2019 7:34,b'Ci vogliamo bene di #Mameli  #NowPlaying',Mameli ,christian,Ci vogliamo bene di,Ci vogliamo,,Neutral
+65,65,65,65,90,1/17/2019 7:34,b'Little Jesus  Pesadilla  #NowPlaying',Pesadilla ,christian,Little Jesus ,Little Jesus,,Negative
+66,66,66,66,91,1/17/2019 7:34,b'#NowPlaying Tony McLendon  You Said It You Said It Tony McLendon Tony McLendon  You Said It',Tony McLendon,Soul,You Said It,You Said It,,Neutral
+67,67,67,67,92,1/17/2019 7:34,b'#NowPlaying Natti Natasha  Quien Sabe En  #elblokeradio',Natti Natasha,pop,Quien Sabe ,Lo Nuestro ,,Neutral
+68,68,68,68,95,1/17/2019 7:34,"b'#NowPlaying Spirit in the Sky (From ""Remem.. by The Star-Lord\'s on #Anghami '",Norman Greenbaum,Rock,Spirit in the Sky,Spirit in the Sky,,Neutral
+69,69,69,69,96,1/17/2019 7:33,b'#nowplaying Modern of Ghost (bonus track  DJ SHARPNEL  Invisible Trigger ', DJ Sharpnel,Anime,Modern of Ghost ,Invisible Trigger,,Positive
+70,70,70,70,97,1/17/2019 7:33,b'#nowplaying Coldplay Feat Beyonce  Hymn For The Weekend  Alb A Head Full Of Dreams ',Beyonce & Coldplay ,pop, Hymn For The Weekend  Alb, A Head Full Of Dreams,,Positive
+71,71,71,71,99,1/17/2019 7:33,b'Brooklyn (Owes The Charmer Under Me by Steely Dan  #NowPlaying',Steely Dan,Pop,Brooklyn Owes The Charmer Under Me,Can't Buy a Thrill,,Neutral
+72,72,72,72,100,1/17/2019 7:33,b'#NowPlaying on  Connection by onerepublic',OneRepublic,pop,Connection,OneRepublic,,Neutral
+73,73,73,73,101,1/17/2019 7:33,b'Radio Wigwam  pre Bandwagon Block #nowplaying\nListen now at ',Radio Wigwam,rap,Radio Wigwam,pre Bandwagon Block,,Neutral
+74,74,74,74,103,1/17/2019 7:33,b'Fatboy Slim  Praise You  #NowPlaying #6music',Fatboy Slim,Pop,Praise You,You've Come a Long Way Baby,,Neutral
+75,75,75,75,104,1/17/2019 7:33,"b""KhalidLoveLies\n\nWhy Don't WeBIG PLANS  #NowPlaying""",Khalid,rock,Love Lies, Why Don't We BIG PLANS,,Neutral
+76,76,76,76,105,1/17/2019 7:33,b' \n\n#NowPlaying',Yuuki Aoi ,Anime,Kaeru Basho ga Aru to Iu Koto   ,Kaeru Basho ga Aru to Iu Koto  Yuuki Aoi ,,Neutral
+77,77,77,77,106,1/17/2019 7:33,b'#NowPlaying   Kaeru Basho ga Aru to Iu Koto  Yuuki Aoi   tune in to #animeblastradio.com',TobyMac,Christian,Undeniable,This Is Not a Test,,Neutral
+78,78,78,78,107,1/17/2019 7:33,b'#NowPlaying TobyMac  Undeniable : Tune In ',Sergey Rybytskyy,New Age,Chameleon,New Vista,,Neutral
+79,79,79,79,110,1/17/2019 7:33,b'#NowPlaying San Diego by Hinds  ',Hinds,Alternative,San Diego, Leave Me Alone,,Neutral
+80,80,80,80,111,1/17/2019 7:33,b'RT   Ada yg baru niiiii~    Sappy #NowPlaying ',Sappy,pop,Ada yg baru ni,Ada yg baru ni Sappy,,Neutral
+81,81,81,81,112,1/17/2019 7:33,b'#NowPlaying Club Trini  No Woman No Cry on Summer Wind Radio #troprock #parrothead #troprockmusic',Bob Marley,Reggae,No Woman No Cry,live!,,Neutral
+82,82,82,82,113,1/17/2019 7:33,b'SPEED STAR -Album Ver. by GARNiDELiA (G.R.N.D. #nowplaying ', GARNiDELiA ,pop,SPEED STAR,Ver,,Neutral
+83,83,83,83,114,1/17/2019 7:33,b'#NowPlaying Toska  Blut Own x Blure',Toska ,rock,Blut Own x Blur,Whispering Meadow,,Positive
+84,84,84,84,115,1/17/2019 7:33,b'#NowPlaying Confluence Of Feelings (Intro Mix  Dmitriy Kuznetsov &amp Ruslan Device',Ruslan Device & Dmitriy Kuznetsov,Trance,Confluence Of Feelings,Dmitriy Kuznetsov & Ruslan Device,,Neutral
+85,85,85,85,117,1/17/2019 7:33,b'#NowPlaying Iranlowo Mi (My Help by Oga Sam on #UrbanRadio NewMusicInsite ',Oga Sam ,pop,My Help,Iranlowo Mi,,Neutral
+86,86,86,86,118,1/17/2019 7:33,b'Raven Maize  The Real Life is #NowPlaying on  ',Joey Negro,Children's Music,The Real Life, 3XL.Dance,,Positive
+87,87,87,87,119,1/17/2019 7:33,"b'#NowPlaying ""Somewhere in Paradise (feat Jeremih &amp R Kelly) by Chance The Rapper on   \n '",Chance The Rapper,rap,somewhere in paradise,chance the rapper,,Neutral
+88,88,88,88,120,1/17/2019 7:33,b'#nowplaying Done For Me (James Hype Mix by Charlie Puth Kehlani',Charlie Puth Kehlani,pop,Done For Me, Voicenotes,,Neutral
+89,89,89,89,124,1/17/2019 7:33,b'Praise You by Fatboy Slim  #nowplaying #6music',Fatboy Slim,Pop,Praise You,You've Come a Long Way Baby,,Neutral
+90,90,90,90,125,1/17/2019 7:33,b'#NowPlaying DJ Jazzy Jeff  How I Do feat Shawn Stockman &amp Cy Young',DJ Jazzy Jeff,Rap, How I Do,The Magnificent,,Positive
+91,91,91,91,126,1/17/2019 7:33,b'#NowPlaying #TranceFamily #Trance Matt Darey &amp Lost Tribe  Red Skin (Original 1993 Mix  ',Trance Matt Darey,pop, Lost Tribe  ,Red Skin Original 1993 Mix  ,,Positive
+92,92,92,92,127,1/17/2019 7:33,b'ROCK WILL NEVER DIE  Michael Schenker Group  Rock Will Never Die #nowplaying',Michael Schenker,rock,ROCK WILL NEVER DIE,  Rock Will Never Die,,Neutral
+93,93,93,93,128,1/17/2019 7:33,b'#NowPlaying on #2HighRadio  Sooner Or Later (Mastered by THC 100 Sooner Or Later  on   #420music #hiphop ',Merriam-Webster,rock, Sooner Or Later, THC 100 Sooner Or Later  ,,Neutral
+94,94,94,94,129,1/17/2019 7:33,"b""#NowPlaying God's Plan by Drake  #KeepingTheMusicInMotion #ListenLive #TeamPlatinum #Hiphop #RnB #OnlineRadio""", Drake,pop,God's Plan, Scorpion,,Neutral
+95,95,95,95,130,1/17/2019 7:33,b'BOOOM!\nEmpire Of The Clouds  Iron Maiden  #NowPlaying',Iron Maiden,rock,Empire Of The Clouds,The Book of Souls,,Neutral
+96,96,96,96,131,1/17/2019 7:33,"b""1000  TVBanG Dream!OP  EP  Poppin'Party \n#NowPoIying #NowPlaying """,TVBanG,pop, Poppin'Party, Dream!OP  EP ,,Neutral
+97,97,97,97,132,1/17/2019 7:33,b'#NowPlaying #Slayer  Seasons in the Abyss    #playstation #PlayStation4 #PS2 #PS1 #PS3 #play',Slayer,rock,  Seasons in the Abyss,Slayer  Seasons in the Abyss ,,Neutral
+98,98,98,98,134,1/17/2019 7:32,"b'Tuned into ""Deep Techno Connection Session 026 (with Karel van Vliet and ... by Mindflash at  #nowplaying'",Karel van Vliet ,rock,Deep Techno Connection Session,Mindflash,,Neutral
+99,99,99,99,135,1/17/2019 7:32,b'I Always Wanna Die (Sometimes de The 1975  #NowPlaying\nNo estoy de emo (s lo estoy)',the 1975,pop,I Always Wanna Die ,Sometimes de ,,Neutral
+100,100,100,100,138,1/17/2019 7:32,b'Now Playing Alex Pardo  Always In My Mind (Original Mix #dogglounge #nowplaying', Willie Nelson,country,Always In My Mind, Always On My Mind,,Positive
+101,101,101,101,139,1/17/2019 7:32,b'#nowplaying on  We Can Run by Grateful Dead :Listen on the site or on the myTuner radio app ',Grateful Dead,rock,We Can Run ,Built to Last,,Negative
+102,102,102,102,141,1/17/2019 7:32,"b'RT   #NowPlaying ""NOBU by Dave East on   \n '",Dave East,rap,NOBU,NOBU  Dave East ,,Neutral
+103,103,103,103,145,1/17/2019 7:32,b'#NowPlaying Timati &amp La La Land &amp Timbaland feat Grooya  Not All About The Money On Atlantic Radio Uk #Hits',Timati & Grooya ,rock,Timati La La Land , All About The Money On Atlantic,,Neutral
+104,104,104,104,148,1/17/2019 7:32,b'Truth  Trysail\n17 Jan 2019 16:32\n#Nowplaying',TrySail,Anime,Truth,TrySail,,Neutral
+105,105,105,105,153,1/17/2019 7:32,b'#NowPlaying Metallica  Master Of Puppets #Radio #webplayer ',Metallica ,rap, Master Of Puppets, Metallica  Master Of Puppets ,,Neutral
+106,106,106,106,155,1/17/2019 7:32,b'#nowplaying Timbaland ft SoShy  Morning After Dark (French Version)',SoShy ,pop, Morning After Dark,Timbaland,,Positive
+107,107,107,107,156,1/17/2019 7:32,"b'""You thought wrong""   \n#NowPlaying #ThursdayMotivation #ThursdayThoughts'",Tory Lanez,Rap,You thought wrong,Love Me Now,,Positive
+108,108,108,108,157,1/17/2019 7:32,b'#NowPlaying on KDUB Radio Nickelback  Never Again\n\n',Nickelback ,rock, Never Again,Silver Side Up,,Neutral
+109,109,109,109,158,1/17/2019 7:32,b'#NowPlaying 05 A PRAYER AWAY  Junior Tucker on   #ChroniclesChristianRadio #ccradioco',Junior Tucker ,christian,A PRAYER AWAY ,A PRAYER AWAY  Junior Tucker ,,Neutral
+110,110,110,110,159,1/17/2019 7:32,b'PPN Radio is #nowplaying  Watch Us Burn by Synkvervet\nYou can listen too at:',Synkvervet,Metal,Watch Us Burn,You can listen to at,,Neutral
+111,111,111,111,161,1/17/2019 7:32,"b""Mississippi Mass Choir  He's Able  #NowPlaying On  -""",Mississippi Mass Choir,christian, He's Able, It Remains To Be Seen,,Negative
+112,112,112,112,162,1/17/2019 7:32,b'#NowPlaying Metallica  Master Of Puppets #Radio #webplayer ',Metallica ,rap, Master Of Puppets, Metallica  Master Of Puppets ,,Neutral
+113,113,113,113,163,1/17/2019 7:32,b'#NowPlaying Weak by SWV on #UrbanRadio Old School R&amp;B ',SWV ,rock,Weak, It's about time,,Negative
+114,114,114,114,164,1/17/2019 7:32,b'#NowPlaying Living on a Prayer [HIW  Bon Jovi #TuneIn #AmazonEcho #InternetRadio \n', Bon Jovi,pop,Living on a Prayer,Slippery When Wet,,Neutral
+115,115,115,115,166,1/17/2019 7:32,b'#NowPlaying on infomm radio Rain/Here Comes The Rain Inter by Madonna  #ListenLive ',Madonna,Anime,Rain Here Comes The Rain,Rain Here Comes The Rain Inter ,,Neutral
+116,116,116,116,167,1/17/2019 7:32,"b""#NowPlaying It's You by Kem on #UrbanRadio R&amp;B Hits """, Kem,rock,It's You,It's You,,Neutral
+117,117,117,117,168,1/17/2019 7:32,"b'#NowPlaying  02:31:42 ET ""Early Birds Of Babylon by Ariel Pink\'s Haunted Graffiti from ""Mature Themes (2012)'",Ariel Pink's Haunted Graffiti,Alternative,Early Birds Of Babylon, Mature Themes,,Negative
+118,118,118,118,169,1/17/2019 7:32,b'Toni Braxton  My Heart\n#NowPlaying', Toni Braxton,Soul, My Heart, My Heart,,Neutral
+119,119,119,119,170,1/17/2019 7:32,b'#NowPlaying Thylacine  Purmamarca ',Thylacine,Electronic,Purmamarca,ROADS - Vol.1,,Neutral
+120,120,120,120,171,1/17/2019 7:32,b'#NowPlaying Panic At The Disco  Fuck A Silver Lining Panic At The Disco \nLRdR  Radio Hits dcouvertes   ',Panic At The Disco,Alternative,  Fuck A Silver Lining Panic At The Disco, Pray for the Wicked,,Negative
+121,121,121,121,172,1/17/2019 7:31,b'#NowPlaying Tea in the Sahara  Synchronicity by The Police ', The Police,ROCK, Tea in the Sahara ,  Synchronicity ,,Neutral
+122,122,122,122,173,1/17/2019 7:31,"b'#NowPlaying ""Me And My Girlfriend by 2Pac Makaveli in   '",Tupac Shakur,Rap,Me And My Girlfriend,The Don Killuminati: The 7 Day Theory,,Neutral
+123,123,123,123,175,1/17/2019 7:31,"b""#NowPlaying Whitney Houston  I'm Your Baby Tonight #Pop #Rock #Soul #Oldies #Radio #WhitneyHouston On """,Whitney Houston,pop, I'm Your Baby Tonight ,I'm Your Baby Tonight,,Neutral
+124,124,124,124,176,1/17/2019 7:31,b'#NowPlaying Frozen by Delain', Delain,Metal, Frozen, Lucidity,,Neutral
+125,125,125,125,177,1/17/2019 7:31,b'Listening to Shri Vishnu Stuti to           #nowplaying  via  ', Anuradha Paudwal & Bhushan Dua,christian,Shri Vishnu Stuti,Shri Vishnu Stuti,,Neutral
+126,126,126,126,178,1/17/2019 7:31,b'#nowplaying Yen Sung  Do You (Deep Dub 1  streaming on  |', Yen Sung  ,Electronic,Do You, Yen Sung  Do You,,Neutral
+127,127,127,127,179,1/17/2019 7:31,"b'#nowplaying ""Tame Impala  Half Full Glass Of Wine [Live] from the album [Currents [Live [Bonus Disc]] #tameimpala'",Tame Impala ,Alternative, Half Full Glass Of Wine, Innerspeaker,,Negative
+128,128,128,128,180,1/17/2019 7:31,b'#nowplaying Sofistifunk  Return to Forever (The Anthology  1975  ', Return to Forever,Jazz,Sofistifunk , No Mystery,,Neutral
+129,129,129,129,181,1/17/2019 7:31,"b""#NowPlaying Hold On We're Going Home by Drake on #UrbanRadio Smooth R&amp;B """, Drake ,Rap, Hold On We're Going Home , Nothing Was the Same,,Negative
+130,130,130,130,182,1/17/2019 7:31,b'#NowPlaying make am  Patoranking', Patoranking,Reggae,make am  ,Patoranking,,Neutral
+131,131,131,131,183,1/17/2019 7:31,b'#NowPlaying 1910 Fruitgum Company  1 2 3 Red Light #Pop #Rock #Oldies #Radio #1910FruitgumCompany On ',1910 Fruitgum Company,pop,  1 2 3 Red Light ,1 2 3 Red Light,,Positive
+132,132,132,132,187,1/17/2019 7:31,"b'Now Playing ""The Other Side of Love   Feat Sister M (Album  ""miusic The best of 1997-2012 [Disc 1]"" #NowPlaying'", Ryuichi Sakamoto& Miu Sakamoto,pop,The Other Side of Love,Sister M,,Negative
+133,133,133,133,188,1/17/2019 7:31,"b'#Nowplaying  ""Annette Tenaya    Eternal-Life-ZOE in OKAYWAVES RADIO Download app here '",Annette Tenaya,pop,Eternal-Life-ZOE,  OKAYWAVES,,Neutral
+134,134,134,134,191,1/17/2019 7:31,b'#NowPlaying on J-Pop Project Radio Mysterious Magic by Do As Infinity #jpop',Do As Infinity,pop,Mysterious Magic , BRAND NEW DAYS,,Positive
+135,135,135,135,194,1/17/2019 7:31,b'#NowPlaying Hiphop Tamizha Kaushik Krish  Enna Nadanthalum\n\n#ISAIFM',Hiphop Tamizha& Kaushik Krish,pop,Enna Nadanthalum, Meesaya Murukku,,Neutral
+136,136,136,136,196,1/17/2019 7:31,b'Hoy Traducimos How Many Tears (Helloween)\n\n#Helloween #Lyrics #Letra #KaiHansen #NowPlaying ',Hoy Traducimos ,Electronic,How Many Tears ,Helloween,,Negative
+137,137,137,137,200,1/17/2019 7:31,b'Keep Being You (Osvaldorio Remix  Isyana Sarasvati #NowPlaying #IstaraFM [14:31 wib]', Isyana Sarasvati,pop,Keep Being You, EXPLORE!,,Neutral
+138,138,138,138,202,1/17/2019 7:31,b'Sugar Pill by Ambulance Ltd from LP #NowPlaying #CollegeRadio',Ambulance LTD,Alternative,Sugar Pill,LP,,Neutral
+139,139,139,139,203,1/17/2019 7:31,b'#nowPlaying Yes  Going for the One\n\nYour home for Classic Hits',Yes,ROCK,  Going for the One,Yes  ,,Positive
+140,140,140,140,204,1/17/2019 7:31,b'#NowPlaying Flex by Atm Uno  Listen On  or Download #MixtapeHeat App #WeBreakRecords ',Atm Uno,Rap,Flex ,Flex,,Neutral
+141,141,141,141,205,1/17/2019 7:31,b'Pemenang by Sheila On 7  #NowPlaying', Sheila on 7,Alternative,Pemenang ,507,,Neutral
+142,142,142,142,206,1/17/2019 7:31,b'#NowPlaying Roll In Peace by   listen at  ',Kodak Black,Rap,Roll In Peace,Project Baby 2,,Neutral
+143,143,143,143,207,1/17/2019 7:31,b'En L!ve sur GalaxieRadio #NowPlaying Capricorn (2018 ELDERBROOK ELDERBROOK  Capricorn (2018)', Elderbrook,Electronic,Capricorn, Old Friend,,Neutral
+144,144,144,144,208,1/17/2019 7:31,b'Ahora Escuchas a Quarterflash  Take Me To Heart #NowPlaying ', Quarterflash,Rock,Take Me To Heart,Quarterflash Take Me To Heart,,Neutral
+145,145,145,145,210,1/17/2019 7:31,b'#NowPlaying MARY J BLIGE-I CAN LOVE YOU(LIL KIM)(FM On ', Mary J. Blige,ROCK,I CAN LOVE YOU, Share My World,,Positive
+146,146,146,146,212,1/17/2019 7:30,"b'RT   HIGH SCENE\n\n""Herbie Hancock""\n\n#HerbieHancock Trio One Finger Snap Live at Montreux\n\nHerbie Hancock(p)\nJeff Littleton'",Herbie Hancock ,Jazz,One Finger Snap,Empyrean Isles,,Negative
+147,147,147,147,213,1/17/2019 7:30,b'#nowplaying Camila Cabello  She Loves Control ',Camila Cabello,pop,She Loves Control,Camila,,Neutral
+148,148,148,148,215,1/17/2019 7:30,b'#nowplaying on The Mad Music Asylum Rhapsody in Red by Jerry Garcia Listen Live at  ',Jerry Garcia Band,Rock,Rhapsody in Red , Cats Under the Stars,,Negative
+149,149,149,149,216,1/17/2019 7:30,b'#NowPlaying  Ure Midge  That Certain Smile  If I Was The Very Best of Midge Ure &amp;a  #TuneInLive at ',Ure Midge,pop,  That Certain Smile  ,The Gift,,Positive
+150,150,150,150,217,1/17/2019 7:30,b'#NowPlaying Wonderwall X Joyride (DJ Sinclair Mashup (Enrie Beehive Edit by Oasis vs Bassjackers &amp Brooks on ',Oasis vs Bassjackers ,pop,Wonderwall X Joyride ,DJ Sinclair Mashup,,Neutral
+151,151,151,151,219,1/17/2019 7:30,"b""Ethan and Gabrielle Children's Station ID by What Happens Next from WLOY ID #NowPlaying #CollegeRadio""",Joe Satriani,Electronic,What Happens Next,What Happens Next,,Neutral
+152,152,152,152,220,1/17/2019 7:30,b'#NowPlaying on AT Radio Xylo Aria  MRI  Xylo Aria  #newmusic #internetradio #np #tunein',Xylo Aria  ,pop,MRI,  Xylo Aria ,,Neutral
+153,153,153,153,221,1/17/2019 7:30,b'#NowPlaying Badmind Low Mi by D Angel #listen online on   Urban Reggae ', D Angel ,Reggae,Badmind Low Mi,Badmind Low Mi,,Neutral
+154,154,154,154,222,1/17/2019 7:30,b'#NOWPLAYING Pimpn Smallz ft 700 Escobar  MONKEYTOWN 2  Dat Bitch Hard Circle Radio  ',Pimpn Smallz ,rock,700 Escobar  MONKEYTOWN 2,  Dat Bitch Hard Circle,,Negative
+155,155,155,155,223,1/17/2019 7:30,b'#NowPlaying Hello Baby by Bob Luman Tune in at',Bob Luman,Rock,Hello Baby , Rockabilly Classics,,Neutral
+156,156,156,156,224,1/17/2019 7:30,b'#NowPlaying ANYONE CAN TELL by DARRYL JOHNSON   on  ',DARRYL JOHNSON,rock,ANYONE CAN TELL ,ANYONE CAN TELL ,,Neutral
+157,157,157,157,225,1/17/2019 7:30,"b""#NowPlaying Let's Spend The Night Together by AmazonicsBossa n'Essentials [Disc 1  The Classics""",Amazonics,Anime,Let's Spend The Night Together,Bossa n Essentials,,Neutral
+158,158,158,158,226,1/17/2019 7:30,b'Nights Like This (feat Ty Dolla $ign by Kehlani Ty Dolla $ign  #NowPlaying', Kehlani,Soul,Nights Like This,Ty Dolla $ign,,Neutral
+159,159,159,159,227,1/17/2019 7:30,b'#NowPlaying on #70vibefm Bite Your Lip (Get Up And Dance! by    Why not visit our site ', Elton John,ROCK,Bite Your Lip (Get Up And Dance!, Blue Moves,,Neutral
+160,160,160,160,229,1/17/2019 7:30,b'#NowPlaying bornrelic  Take It Back : Tune In ',bornrelic  ,Rap,Take It Back, Everybody,,Neutral
+161,161,161,161,230,1/17/2019 7:30,b'#NowPlaying Super Bad by James Brown on #UrbanRadio Soul Hits Station ',James Brown,funk,Super Bad ,Revolution of the Mind: Live at the Apollo,,Negative
+162,162,162,162,232,1/17/2019 7:30,b'#NowPlaying Nice For What (Dirty by   on  ',Drake,pop,Nice For What ,Nice For What Dirty,,Neutral
+163,163,163,163,233,1/17/2019 7:30,"b""#NowPlaying Wherever You Will Go  The Calling on Montreal's Mountain City Rock  The City's Online Rock Station #MontrealRadio""",The Calling,pop,Wherever You Will Go, Camino Palmero,,Neutral
+164,164,164,164,234,1/17/2019 7:30,b'#NowPlaying\nGOLD NIGHT  DAVE RODGERS feat Eurobeat Union\n\nCommand....',DAVE RODGERS,ROCK,GOLD NIGHT,Eurobeat Union,,Neutral
+165,165,165,165,235,1/17/2019 7:30,"b'#NOWPLAYING   X Wade  Cruisin Ft Teddy D       ""THE HOME OF BOSTON HIP HOP""'",X Wade Teddy D,ROCK,THE HOME OF BOSTON,Cruisin,,Neutral
+166,166,166,166,236,1/17/2019 7:30,b'#NowPlaying Dancing In The Dark by Bruce Springsteen on  Listen  and ',Bruce Springsteen,Alternative,Dancing In The Dark,Born in the U.S.A.,,Negative
+167,167,167,167,237,1/17/2019 7:30,b'#NowPlaying Wipe Me Down by Lil Boosie feat Webbie Foxx on #UrbanRadio Old School Hip Hop ',Boosie Badazz,Rap,Wipe Me Down, Bad Azz,,Negative
+168,168,168,168,239,1/17/2019 7:30,b'#NowPlaying Luke Bryan  Fast : Tune In ',Luke Bryan,country,Fast,Kill the Lights,,Positive
+169,169,169,169,240,1/17/2019 7:30,"b""#NowPlaying DLet's Go Come On""",D,ROCK,Let's Go Come On,initiaD,,Neutral
+170,170,170,170,241,1/17/2019 7:30,b'RT   ROOOOCK the #Night Awaaaaaay!\n\n#nowplaying #np #Listen #TuneIn #TuneInOrBeTunedOut #unsigned #unsignedartist #',Aqours,Anime,Aqours,Aqours,,Neutral
+171,171,171,171,243,1/17/2019 7:30,b'Canciones para trabajar en la madrugada y no morir en el intento\nO quiz s...\nMy Heart Will Go On de James Horner ',Celine Dion,Pop,My Heart Will Go On,Let's talk about love,,Neutral
+172,172,172,172,244,1/17/2019 7:30,"b""#NowPlaying Still Crazy For You by Rick Springfield Album Success Hasn't Spoiled Me Yet  """,Rick Springfield,pop,Still Crazy For You , Success Hasn't Spoiled Me Yet,,Positive
+173,173,173,173,245,1/17/2019 7:30,b'#Nowplaying Everyday Level Up!  ( ', Everyday Level Up!  ,Anime, Everyday Level Up!  , Everyday Level Up!  ,,Negative
+174,174,174,174,246,1/17/2019 7:30,b'#NowPlaying Safha We Tawaita by   on #Anghami     \n#mood  ', Wael Kfoury,Rock,Safha We Tawaita,Ya Dale Ya Rohi,,Neutral
+175,175,175,175,247,1/17/2019 7:30,b'#NowPlaying Duso Moja  Kemal Monteno', Kemal Monteno,pop,Duso Moja , Kemal Monteno Duso Moja,,Neutral
+176,176,176,176,248,1/17/2019 7:30,"b""#NowPlaying I Can't Go For That by Hall &amp Oates on  in #RVA  Please Like &amp RT #80sChildRadio""", Hall & Oates,ROCK,I Can't Go For That , Private Eyes,,Neutral
+177,177,177,177,249,1/17/2019 7:30,b'#NowPlaying    My Best Friend via #PraiseworldRadio\n\nTune in!!!', Tim McGraw,country,My Best Friend,A Place in the Sun,,Positive
+178,178,178,178,250,1/17/2019 7:30,b'#NowPlaying Worth (ft Mike Caesar by DJ Tony on #UrbanRadio NewMusicInsite ',Anthony Brown and group therAPy,Christian,worth , Everyday Jesus,,Positive
+179,179,179,179,251,1/17/2019 7:30,"b' #nowplaying ""Counting Clouds"" Blank &amp Jones in #RadioLounge'",counting clouds,Electronic, blank and jones, Relax,,Neutral
+180,180,180,180,252,1/17/2019 7:30,b'Now Playing #Lump  Curse of the Contemporary on    #playingnow #nowplaying listen at ',Laura Marling,ROCK, Curse of the Contemporary,Lump ,,Positive
+181,181,181,181,255,1/17/2019 7:30,"b""#NowPlaying Could've Been (ft Bryson Tiller by H.E.R on #UrbanRadio Slow Jams """,H.E.R,pop,Could've Been ,Could've Been ,,Positive
+182,182,182,182,256,1/17/2019 7:30,b'#NowPlaying Eadam Mayet by  _Youtube on #Anghami   ', Omar Khairat,pop,Eadam Mayet,Eadam Mayet,,Neutral
+183,183,183,183,257,1/17/2019 7:30,b'#NowPlaying Never Been To Spain by   on #Anghami ',Three Dog Night,Electronic,Never Been To Spain, Harmony,,Neutral
+184,184,184,184,258,1/17/2019 7:30,b'  Cokelat  Segitiga [146 listeners #NowPlaying \nDownload player ', Cokelat,pop,Cokelat  Segitiga, Segitiga ,,Neutral
+185,185,185,185,259,1/17/2019 7:30,b'#AhoraSuena #NowPlaying Selena Gomez &amp The Scene  Hit the Lights #InacapRadio',Selena Gomez & The Scene,Pop, Hit the Lights, When the Sun Goes Down,,Neutral
+186,186,186,186,260,1/17/2019 7:30,"b'#NowPlaying  02:29:35 ET ""Planet Of Sound by Pixies from ""Trompe Le Monde (1991)'",Pixies,Alternative,Planet Of Sound,Trompe le Monde,,Negative
+187,187,187,187,261,1/17/2019 7:30,b'Muzik Iz Life and Life Iz Muzik \nCheck Out This Song #NowPlaying Legbegbe by Mr Real                 Tunein  ', Mr Real,pop,Legbegbe,Legbegbe,,Positive
+188,188,188,188,263,1/17/2019 7:30,b'#NowPlaying Maluma ft Eli Palacios  La Temperatura Maluma ft Eli Palacios \n',Maluma ,pop,La Temperatura,PB.DB the Mixtape,,Neutral
+189,189,189,189,265,1/17/2019 7:30,b'#NowPlaying Jessie Baylin  Supermoon #musicforfamilies #musicforkids #children',Jessie Baylin ,pop, Supermoon,Jessie Baylin  Supermoon,,Neutral
+190,190,190,190,266,1/17/2019 7:30,b'#NowPlaying Youthful Praise (Ft J.J Hairston  Resting On His Promise on ',Youthful Praise,rock,Resting On His Promise , J.J Hairston,,Neutral
+191,191,191,191,267,1/17/2019 7:30,b'#NowPlaying Gusttavo Lima  Gusttavo Lima  Balada boa Tche tche rere Gusttavo Lima  Balada boa Tche tche rere Gusttavo Lima',Gusttavo Lima,pop,Balada , Gusttavo Lima e você,,Neutral
+192,192,192,192,268,1/17/2019 7:30,b'Sipping My life (Bonus Track by John Park  #NowPlaying',John Park,pop,Sipping My life ,Bonus Track ,,Neutral
+193,193,193,193,269,1/17/2019 7:30,b'Sheck Wes  Rich White #NowPlaying #RageRadio',Sheck Wes,rock,  Rich White,  Rich White,,Positive
+194,194,194,194,272,1/17/2019 7:29,b'#NowPlaying Eternal Flame by Bangles on #80s Mixed   Tune in &amp catch the wave at ',The Bangles,rock,Eternal Flame,Everything,,Neutral
+195,195,195,195,274,1/17/2019 7:29,b'#nowplaying Jill Scott  Hate On Me LISTEN HERE   #standup #comedy #hilarious #followus #music',Jill Scott,pop,  Hate On Me,The Real Thing: Words and Sounds Vol. 3,,Negative
+196,196,196,196,277,1/17/2019 7:29,b'#nowplaying #1038fm Keabadian  Reza  streaming klik  #musikenakseharian stop piracy  buy ', Reza Artamevia,pop,Keabadian,Keabadian  ,,Neutral
+197,197,197,197,278,1/17/2019 7:29,"b""NE1fm 102.5 is #NowPlaying  Giant by Calvin Harris x Rag'n'Bone Man""",Calvin Harris ,rap,Giant, Rag'n'Bone Man,,Neutral
+198,198,198,198,279,1/17/2019 7:29,b'#NowPlaying Hip-Hop  by Joell Ortiz  #KeepingTheMusicInMotion #ListenLive #TeamPlatinum #Hiphop #RnB #OnlineRadio',Joell Ortiz,rap,Hip-Hop ,The Brick: Bodega Chronicles,,Neutral
+199,199,199,199,280,1/17/2019 7:29,"b'Now Playing ""Orpheus No  Mark Goldenberg (Album  ""L\'homme valise"" #NowPlaying'",Mark Goldenberg,pop,Orpheus No ,Kabanwo Motta Otoko,,Neutral
+200,200,200,200,281,1/17/2019 7:29,b'RT   nowplaying ',Jan Johnston ,Electronic, Sleeping Satellite, Sleeping Satellite,,Neutral
+201,201,201,201,282,1/17/2019 7:29,b'#NowPlaying Jan Johnston  Sleeping Satellite On Atlantic Radio Uk #Hits',Verkligheten ,pop,Verkligheten  Soilwork, Soilwork,,Neutral
+202,202,202,202,287,1/17/2019 7:29,b'#nowplaying #NPbot whiz  TrySail  Sail Canvas',TrySail ,pop,Sail Canvas,Sail Canvas,,Neutral
+203,203,203,203,288,1/17/2019 7:29,b'RT   #NowPlaying  The Rolling Stones  Mixed Emotions    #ClassicRock',The Rolling Stones,rock, Mixed Emotions, Steel Wheels,,Neutral
+204,204,204,204,290,1/17/2019 7:29,b'#nowplaying beast in black  beast in black.',beast in black ,rock,beast in black ,beast in black ,,Negative
+205,205,205,205,291,1/17/2019 7:29,"b""#NowPlaying God's Grace by Trin-i-tee 5:7 on #UrbanRadio Gospel Hits """, Trin-i-Tee 5:7,christian,God's Grace,Angel & Chanelle,,Neutral
+206,206,206,206,292,1/17/2019 7:29,b'RT  _WIGWAM Wild Horse    King Of The Underworld #nowplaying\nListen now at ',WIGWAM,pop,Wild Horse ,King Of The Underworld,,Positive
+207,207,207,207,294,1/17/2019 7:29,"b""#NowPlaying F L M (12' Version  Mel &amp Kim""",Mel and Kim,pop,F L M,F L M,,Neutral
+208,208,208,208,295,1/17/2019 7:29,b'#NowPlaying Ohio Bumper Stickers by Beth Stelling Tune in now at   ', Beth Stelling,rap,Ohio Bumper Stickers,Ohio Bumper Stickers,,Neutral
+209,209,209,209,298,1/17/2019 7:29,b'#NOWPLAYING #IWANFALS WITH ORANG PINGGIRAN',Iwan Fals &Franky Sahilatua,pop,ORANG PINGGIRAN,Orang Pinggiran,,Neutral
+210,210,210,210,299,1/17/2019 7:29,b'#NowPlaying Aza Lineage  Mixtape  07 Love Alone on  #RootsReggaeHub #ReggaeAllDay',Aza Lineage,Reggae,  Love Alone,  Love Alone,,Positive
+211,211,211,211,300,1/17/2019 7:29,"b""#NowPlaying Imany feat Filatov &amp Karas  Don't Be So Shy (Radio Mix on MGZC #Radio """,Imany,pop,Don't Be So Shy,French Women,,Positive
+212,212,212,212,301,1/17/2019 7:29,b'#nowplaying Billionaire Boys  Glory by Billionaireboysdna feat billionaireboysdna ft TCLM via   ',Billionaire Boys,pop,  Glory,Billionaireboysdna ,,Neutral
+213,213,213,213,302,1/17/2019 7:29,"b""#nowplaying Vortex Infinitum (Robo-Ky's Theme by Gregory Payne""",N.EX.T,rock,Vortex Infinitum,Guilty Gear XX #Reload Korean Version Original Sound Track,,Neutral
+214,214,214,214,303,1/17/2019 7:29,b'#NowPlaying Fefe by 6ix9ine on #UrbanRadio Hip Hop ',6ix9ine,Rap,Fefe,ScumGang,,Neutral
+215,215,215,215,304,1/17/2019 7:29,b'#NowPlaying Monoxide Project  Burnout Cowboy on #airarkansas   Come Listen  Submit Music  #arkansas',Monoxide Project,rock,  Burnout Cowboy, Monoxide Project  Burnout Cowboy ,,Neutral
+216,216,216,216,305,1/17/2019 7:29,b'#NowPlaying on The  The Only Factor by Crowbar #HIT #PLAY  ALL NITE  ALL DAY ', Crowbar,Metal, The Only Factor ,Time Heals Nothing,,Neutral
+217,217,217,217,306,1/17/2019 7:29,b'#NowPlaying Olamide  Update on #Naijatastic  ',Olamide,pop,Update,Olamide  Update,,Neutral
+218,218,218,218,307,1/17/2019 7:29,b'#NowPlaying Craig David  Fill Me In on   ',Craig David,rock, Fill Me In ,Born to Do It,,Neutral
+219,219,219,219,309,1/17/2019 7:29,b'#NowPlaying Town Hall  Mary A Longden',Town Hall,folk,Mary A Longden,Roots & Bells,,Neutral
+220,220,220,220,311,1/17/2019 7:28,b'#NowPlaying Forever My Lady by Jodeci on #UrbanRadio Greatest Hits R&amp;B ',Jodeci,folk,Forever My Lady,Forever My Lady,,Positive
+221,221,221,221,312,1/17/2019 7:28,"b'#NowPlaying Killing Joke  ""Sanity '",Killing Joke ,Alternative,Sanity,Brighter Than a Thousand Suns,,Neutral
+222,222,222,222,313,1/17/2019 7:28,b'#NowPlaying So Macho [f38  Sinitta',Sinitta,pop,So Macho ,Sinitta!,,Neutral
+223,223,223,223,315,1/17/2019 7:28,"b'#Trending #Music ""Thinking Bout You by ""Ariana Grande""\n#NowPlaying '", Ariana Grande,pop,Thinking Bout You, Dangerous Woman,,Neutral
+224,224,224,224,316,1/17/2019 7:28,"b'Now Playing ""Dirt by Penguin Cafe Orchestra\n#NowPlaying \n'",Penguin Cafe Orchestra,Worldbeat,Dirt , Signs of Life,,Neutral
+225,225,225,225,318,1/17/2019 7:28,b' #nowplaying Herbie Hancock Sun Touch available on  ',Herbie Hancock,Jazz,Sun Touch, Man-Child,,Positive
+226,226,226,226,321,1/17/2019 7:28,b'Devils Haircut by Beck  #nowplaying #6music', Beck,country,Devils Haircut,Odelay,,Neutral
+227,227,227,227,322,1/17/2019 7:28,b'#NowPlaying Four Days Late  Eleanor Riley on   #ChroniclesChristianRadio #ccradioco', Eleanor Riley,pop,Four Days Late ,Four Days Late ,,Negative
+228,228,228,228,323,1/17/2019 7:28,b'Both of Us by Yellow Claw STORi  #NowPlaying',Yellow Claw,Electronic,Both of Us,New Blood,,Neutral
+229,229,229,229,324,1/17/2019 7:28,b'#NowPlaying Chimo by Terry G \nwe play all your favorite jamz ',Terry G,Rap,Chimo ,Chimo ,,Positive
+230,230,230,230,325,1/17/2019 7:28,b'#NowPlaying  Young M.A  Bleed #TheGodzillaStation #Trending',Young M.A,Rap, Bleed,Young M.A  Bleed ,,Positive
+231,231,231,231,326,1/17/2019 7:28,b'#NowPlaying Love Me Now by John Legend on #UrbanRadio Smooth R&amp;B ', John Legend ,Soul,Love Me Now ,Darkness and Light,,Positive
+232,232,232,232,327,1/17/2019 7:28,b'#NowPlaying Say It by Tory Lanez on #UrbanRadio R&amp;B Hits ',Tory Lanez,Rap,say it,I Told You,,Neutral
+233,233,233,233,328,1/17/2019 7:28,b'Devils Haircut by Beck  #nowplaying #6music',Beck,country,Devils Haircut,Odelay,,Neutral
+234,234,234,234,329,1/17/2019 7:28,b'Working On A Way Out by Hidden Pictures from Synchronized Sleeping #NowPlaying #CollegeRadio', Hidden Pictures ,rock,Working On A Way Out,Synchronized Sleeping,,Negative
+235,235,235,235,331,1/17/2019 7:28,b'#nowplaying Chain Of Fools (Original Mix by Dian Solo feat Eva Maria Dian Solo Eva Maria',Dian Solo ,pop,Chain Of Fools,Dian Solo Eva Maria,,Positive
+236,236,236,236,332,1/17/2019 7:28,"b'#NowPlaying  02:27:16 ET ""We Drink On The Job by Earlimart from ""Everyone Down Here (2003)'",Earlimart,rock,We Drink On The Job ,Everyone Down Here,,Positive
+237,237,237,237,333,1/17/2019 7:28,"b""#yurzradio #NowPlaying The Boys Town Gang  Can't Take My Eyes Off You #reims #champagne #EnjoyMusicfromReims """,Boys Town Gang,pop,Can't Take My Eyes Off You,Disc Charge,,Neutral
+238,238,238,238,334,1/17/2019 7:28,b'#NowPlaying Masego  Navajo Navajo Masego ',Masego ,Soul, Navajo, Navajo Masego,,Neutral
+239,239,239,239,335,1/17/2019 7:28,b'#NowPlaying Pat Kalla &amp Le Super Mojo  Jongler ',Pat Kalla,ROCK, Jongler,Le Super Mojo ,,Positive
+240,240,240,240,336,1/17/2019 7:28,b'#NowPlaying White Zombie  More Human Than Human #Radio #webplayer ', White Zombie,Rock,  More Human Than Human, Astro-Creep: 2000  Songs of Love Destruction and Other Synthetic Delusions of the Electric Head,,Positive
+241,241,241,241,337,1/17/2019 7:28,b'#NowPlaying #Killswitch Engage  Reject Yourself    #playstation #PlayStation4 #PS2 #PS1 #PS3',Killswitch Engage,Metal,Reject Yourself,As Daylight Dies,,Neutral
+242,242,242,242,339,1/17/2019 7:27,b'Beck  Devils Haircut  #NowPlaying #6music',Beck,country,Devils Haircut,Odelay,,Neutral
+243,243,243,243,340,1/17/2019 7:27,b'#NowPlaying on   Unique  What I Got Is What You Need (extended    #funk #80s #disco #radio #classics',Unique,pop,What I Got Is What You Need,What I Got Is What You Need,,Positive
+244,244,244,244,341,1/17/2019 7:27,b'#NowPlaying Ready Or Not by After 7 on #UrbanRadio Old School R&amp;B ',After 7,soul,Ready Or Not ,After 7,,Positive
+245,245,245,245,342,1/17/2019 7:27,b'#Nowplaying #UK Garage  Da Click  Good Rhymes (Original Mix  A Side',Garage,pop,  Da Click,  Good Rhymes ,,Positive
+246,246,246,246,343,1/17/2019 7:27,b'#nowplaying\nMouse in a Maze by Useless ID\n The Lost Broken Bones\n',Useless ID,Alternative,Mouse in a Maze,The Lost Broken Bones,,Negative
+247,247,247,247,345,1/17/2019 7:27,b'RT  _WIGWAM Wild Horse    King Of The Underworld #nowplaying\nListen now at ',WIGWAM,pop,Wild Horse ,King Of The Underworld,,Positive
+248,248,248,248,347,1/17/2019 7:27,"b'#nowplaying "" from ""Waltz on Life Line by 9mm Parabellum Bullet #songsinfo '",9mm Parabellum Bullet,Rock,Waltz on Life Line,Waltz on Life Line,,Neutral
+249,249,249,249,348,1/17/2019 7:27,"b""RT   [  Love Shot by   is #NowPlaying on #VirginRadioHotHits as the winner of tonight's #LoveItOr""",EXO,Pop,love shot ,Don't Mess Up My Tempo,,Negative
+250,250,250,250,349,1/17/2019 7:27,b'#NowPlaying Monica  Why I Love You So Much #NothingButSlowJams #passionplayground Listen Live ',Monica,soul, Why I Love You So Much,Miss Thang,,Positive
+251,251,251,251,350,1/17/2019 7:27,b'#NowPlaying   You Make Me Feel So Sick #LocalPlaylisters ',The Crooks,Rock,You Make Me Feel So Sick, Speed Kills,,Negative
+252,252,252,252,351,1/17/2019 7:27,b'Menghujam Jantungku  Tompi #NowPlaying #IstaraFM [14:27 wib]',Tompi,Jazz,Menghujam Jantungku ,My Happy Life,,Neutral
+253,253,253,253,352,1/17/2019 7:27,b'Generasi Galau  #NowPlaying',Generasi Galau ,Jazz,Generasi Galau ,Generasi Galau ,,Neutral
+254,254,254,254,353,1/17/2019 7:27,"b'Now Playing ""Up In Heaven (Not Only Here) by The Clash\n#NowPlaying \n'",The Clash,Alternative,Up In Heaven (Not Only Here) , Sandinista!,,Neutral
+255,255,255,255,354,1/17/2019 7:27,b'#NowPlaying El Berna Jam Ya Llego [CUT  Berna Jam',Berna Jam,pop,Ya Llego,Welcome to Salsopoli,,Neutral
+256,256,256,256,355,1/17/2019 7:27,b'#NowPlaying Crosstreet  _crossTreet  Depend on you on ', Crosstreet ,soul, Depend on you on,crossTreet,,Neutral
+257,257,257,257,356,1/17/2019 7:27,"b""#NowPlaying Blu Cantrell  Hit 'Em Up Style (Oops! (Video Version)(1 on #LifecomRadio.org,uk""",Blu Cantrell,pop, Hit 'Em Up Style, So Blu,,Neutral
+258,258,258,258,357,1/17/2019 7:27,b'#nowplaying African Disco  Pat Kalla &amp le Super Mojo (Jongler  2018  ',Jongler,rock,African Disco,Pat Kalla & le Super Mojo,,Positive
+259,259,259,259,360,1/17/2019 7:27,b'#NowPlaying Tints by Anderson Paak on #UrbanRadio New R&amp;B ',Anderson .Paak,Rap,Tints ,Oxnard,,Positive
+260,260,260,260,361,1/17/2019 7:27,b'#NowPlaying The Night We Met by   on #Anghami ',Lord Huron,Alternative,The Night We Met,Iamsound,,Neutral
+261,261,261,261,363,1/17/2019 7:27,b'#NowPlaying on Parani Gee  Sri Lankan Records LIVE Mihiravi by Sanath Nandasiri  ',Sanath Nandasiri,country,Parani Gee , Sri Lankan Records,,Negative
+262,262,262,262,365,1/17/2019 7:27,b'#NowPlaying Superfly By Superbob on   ',Superbob,rock,Superfly ,Superbob,,Neutral
+263,263,263,263,366,1/17/2019 7:27,b'#nowplaying START over AGAIN    THe FIRST BITe ',New Hope Club,pop, START over AGAIN,    THe FIRST BITe,,Positive
+264,264,264,264,368,1/17/2019 7:27,b'#NowPlaying   Amy Grant  Takes A Little Time  ON #GGhRADIO  #GospelGh  | Download #GGhRADIO app FREE from G ',Amy Grant,christian, Takes A Little Time,Behind the Eyes,,Positive
+265,265,265,265,369,1/17/2019 7:27,b'Grouplove  Ways To Go  #NowPlaying',Grouplove,Alternative,  Ways To Go, Spreading Rumours,,Neutral
+266,266,266,266,370,1/17/2019 7:27,"b'#NowPlaying   Endless sorrow ""Original Mix ALBUM Endless sorrow'",Ayumi Hamasaki,pop, Endless sorrow ,I Am...,,Negative
+267,267,267,267,371,1/17/2019 7:27,b'RT  _JAPARI   ChouCho #NowPlaying   ',ChouCho ,pop,JAPARI,secretgarden,,Neutral
+268,268,268,268,373,1/17/2019 7:26,"b'Listening to ""DCR440  Drumcode Radio Live  Adam Beyer live from Tobacco Do...  by Adam Beyer #nowplaying'",Adam Beyer,rock,Tobacco Do,Drumcode,,Negative
+269,269,269,269,375,1/17/2019 7:26,b'Gaye Arbuckle  Miracles &amp Blessings  #NowPlaying On  -',Gaye Arbuckle,christian, Miracles and Blessings, Miracles and Blessings,,Neutral
+270,270,270,270,377,1/17/2019 7:26,"b""#NowPlaying Dee Snider  We're Not Gonna Take It (2016 Acoustic Recording : Tune In """,Twisted Sister,pop,Dee Snider  We're Not Gonna Take It, Stay Hungry,,Neutral
+271,271,271,271,378,1/17/2019 7:26,b'#NowPlaying Cup of Tea  Lizzy Ashliegh #Listen live on our free app #1037Thebeat\nThe Voice of Muskegon!',Lizzy Ashliegh,pop,Cup of Tea, Mind Over Ma EP,,Positive
+272,272,272,272,381,1/17/2019 7:26,b'#NowPlaying on  1999 (f Troye Sivan by  _xcx',Charli XCX & Troye Sivan,pop,1999,1999,,Neutral
+273,273,273,273,382,1/17/2019 7:26,b'Tamia  Who Do You Tell\n#NowPlaying',Tamia,Soul,Who Do You Tell,Tamia,,Neutral
+274,274,274,274,383,1/17/2019 7:26,b'#NowPlaying Julie Bergan  All Hours On Atlantic Radio Uk #Hits',Julie Bergan,pop,All Hours ,Julie Bergan  All Hours ,,Neutral
+275,275,275,275,384,1/17/2019 7:26,b'#NowPlaying barber Viernes 13  barber Viernes 13 drop En  #elblokeradio',barber Viernes 13,rock, drop, barber Viernes 13,,Neutral
+276,276,276,276,385,1/17/2019 7:26,b'RT   #NowPlaying Junior Mafia feat Lil Kim &amp Notorious BIG  Crush On You on   ',Lil' Kim,Rap,Crush On You,Hard Core,,Neutral
+277,277,277,277,386,1/17/2019 7:26,b'Jon Tessier  For a Little Eye Candy Streaming LIVE on Indie Star Radio Listen at   #Music ',Jon Tessier,pop,For a Little Eye Candy,Jon Tessier  For a Little Eye Candy,,Negative
+278,278,278,278,387,1/17/2019 7:26,b'#nowPlaying  Nana Yaa  No One Has To Know (These 4 Walls  on Ghana Music Radio Just tune in ', Nana Yaa,pop,  No One Has To Know, Nana Yaa  No One Has To Know,,Neutral
+279,279,279,279,389,1/17/2019 7:26,b'#nowplaying Pump Da Party  Nhato  PRINCESS OF TRANCE #02 ', Nhato,Anime,Pump Da Party,PRINCESS OF TRANCE,,Neutral
+280,280,280,280,390,1/17/2019 7:26,b'#NowPlaying Adorn by Miguel on #UrbanRadio Slow Jams ', Miguel,pop,Adorn,Kaleidoscope Dream,,Negative
+281,281,281,281,391,1/17/2019 7:26,b'#NowPlaying on   Electrosound  Pump The Beat #ElectroBass #DrumAnd  ', Alka & Feiv,House,Pump The Beat,Pump The Beat,,Neutral
+282,282,282,282,392,1/17/2019 7:26,b'RT   #NowPlaying   Silly  DJ Marky  Tune in   #dnb #drumandbass #dnbnow',DJ Marky,Electronic,Silly,My Heroes,,Negative
+283,283,283,283,393,1/17/2019 7:26,b' ChouCho #NowPlaying   ',ChouCho ,pop,JAPARI,secretgarden,,Neutral
+284,284,284,284,394,1/17/2019 7:26,"b'#nowplaying ""Tame Impala  Desire Be Desire Go [Live] from the album [Currents [Live [Bonus Disc]] #tameimpala'",Tame Impala,pop,  Desire Be Desire, Go,,Negative
+285,285,285,285,395,1/17/2019 7:26,b'#nowplaying letlive  Foreign Cab Rides',Letlive ,Metal, Foreign Cab Rides, If I'm the Devil...,,Negative
+286,286,286,286,396,1/17/2019 7:26,b'#nowplaying letlive  A Weak Ago',Letlive ,Metal,A Weak Ago, If I'm the Devil...,,Negative
+287,287,287,287,398,1/17/2019 7:26,b'NE1fm 102.5 is #NowPlaying  You Make Me Wanna by Usher',Usher,pop,You Make Me Wanna,Soul,,Neutral
+288,288,288,288,399,1/17/2019 7:26,b'#NowPlaying TwentyThree LDOT  Grind  ',TwentyThree LDOT,rock,  Grind,TwentyThree LDOT  Grind,,Neutral
+289,289,289,289,400,1/17/2019 7:26,b'#NowPlaying Pascale Picard  Gate 22 Gate 22 Pascale Picard Pascale Picard  Gate 22',Pascale Picard,ROCK,Gate 22, Me & Myself & Us,,Neutral
+290,290,290,290,401,1/17/2019 7:26,b'Prayer X  King Gnu #nowplaying\n ',King Gnu,Rock,Prayer X,King Gnu Prayer X,,Neutral
+291,291,291,291,402,1/17/2019 7:26,b'#NowPlaying Don Marsh Orchestra  O Love That Will Not Let Me Go O Love That Will Not Let Me Go Don Marsh Orchestra ',Indelible Grace,Christian,O Love That Will Not Let Me Go,Indelible Grace Side A,,Positive
+292,292,292,292,403,1/17/2019 7:26,b'#NowPlaying  Bramsito  Faut pas ngliger\nSUR LA WEB RADIO TROPICALE DU LEBLOGDUZOUK  \n',Bramsito,Rap,Faut pas ngliger,  Faut pas ngliger,,Neutral
+293,293,293,293,404,1/17/2019 7:26,b'Ahora Escuchas a Los Fabulosos Cadillacs  El satanico Dr Cadillacs #NowPlaying ',Ahora Escuchas,rock, a Los Fabulosos Cadillacs , El satanico Dr Cadillacs,,Neutral
+294,294,294,294,405,1/17/2019 7:26,"b"" Poppin'Party #NowPlaying   """,Poppin'Party,Anime,Poppin'Party,Poppin'Party,,Neutral
+295,295,295,295,407,1/17/2019 7:25,b'#NowPlaying   Silly  DJ Marky  Tune in   #dnb #drumandbass #dnbnow',DJ Marky,Electronic,Silly,My Heroes,,Negative
+296,296,296,296,408,1/17/2019 7:25,b'#nowplaying Smug Face -  SUPER STAR  -MITSURU ',Smug Face,Anime,SUPER STAR,MITSURU,,Positive
+297,297,297,297,411,1/17/2019 7:25,b'#NOWPLAYING Pimpn Smallz ft Poke Dog  MONKEYTOWN 2  I Might Circle Radio  ',Pimpn Smallz,rock, Poke Dog , MONKEYTOWN 2,,Neutral
+298,298,298,298,412,1/17/2019 7:25,b'#NowPlaying Cello by Iyad Rimawi on #Anghami   ',The Piano Guys,pop,cello,Hits Volume 1,,Neutral
+299,299,299,299,413,1/17/2019 7:25,b'#NowPlaying Genesis 45 by NIV Live  A Bible Experience',NIV,Christian,Genesis 45,  A Bible Experience,,Positive
+300,300,300,300,414,1/17/2019 7:25,b'a-ha  Ray #NowPlaying   ',Ray,Anime,a-ha  Ray,Milky Ray,,Neutral
+301,301,301,301,416,1/17/2019 7:25,b'ENTER THE STAGE by NUMB #NowPlaying ',Black Moon,Hip hop,ENTA DA STAGE,Wreck Records,,Negative
+302,302,302,302,417,1/17/2019 7:25,b'#NowPlaying More Serious Business by Jazz Funk SoulMore Serious Business',Serious Business,Funk,More Serious Business ,More Serious Business,,Negative
+303,303,303,303,418,1/17/2019 7:25,b'And Nothing Hurt by Spiritualized  #NowPlaying',Spiritualized,Alternative,And Nothing Hurt,Bella Union,,Neutral
+304,304,304,304,419,1/17/2019 7:25,"b'#NowPlaying ""Californication by Red Hot Chili Peppers on   \n '",Red Hot Chili Peppers,Alternative,Californication,Californication,,Negative
+305,305,305,305,420,1/17/2019 7:25,b'#Nowplaying Mi Gente by J Balvin Ft Willy William &amp Beyonce en #LaMega105',J Balvin & Willy William,Reggaeton,Mi Gente, Daddy K - The Mix 11,,Neutral
+306,306,306,306,421,1/17/2019 7:25,b'#NowPlaying on #CacoteoRadio #Reggaeton Karol G  ', Karol G ,Reggaeton,Cacoteo,CacoteoRadio ,,Neutral
+307,307,307,307,422,1/17/2019 7:25,"b'PEP Agency Radio  #NowPlaying ""No Grey Matter (Not Because You Owe Me) von  Joi  Reinhren und die aussergewhnli '",Joi ,Soul,No Grey Matter Not Because You Owe Me,SIR Rebekkah Holylove,,Negative
+308,308,308,308,423,1/17/2019 7:25,"b'Now Playing ""O Mexico by Dosh\n#NowPlaying \n'",Dosh,Electronica,O Mexico, The Lost Take,,Neutral
+309,309,309,309,424,1/17/2019 7:25,"b'RT   Take your Boo to the movies and go see ""The Upside damn it!!!!! #NowPlaying ....People are loving it!!!! '",kevin hart,pop,The Upside damn it!,Take your Boo to the movies and go see ,,Negative
+310,310,310,310,425,1/17/2019 7:25,"b'album ""The Haunted Made Me Do It by The Haunted #nowplaying'",The Haunted, metal,Made Me Do It,The Haunted,,Neutral
+311,311,311,311,426,1/17/2019 7:25,"b'Now Playing ""Orinoco Flow  Enya (Album  ""Music Life 40th Anniversary Series  WEA Music Version"" #NowPlaying'", Enya,Rock,Orinoco Flow,Watermark,,Neutral
+312,312,312,312,427,1/17/2019 7:25,b'Goodnight Tennessee by Cold War Kids  #NowPlaying',Cold War Kids,Alternative,Goodnight Tennessee , Mine Is Yours,,Positive
+313,313,313,313,428,1/17/2019 7:25,b'blue cores by petit milady #NowPlaying',petit milady,Anime,blue cores,blue cores,,Neutral
+314,314,314,314,430,1/17/2019 7:25,b'RT   #NowPlaying    Love Shot ',EXO,Pop,love shot ,Don't Mess Up My Tempo,,Negative
+315,315,315,315,431,1/17/2019 7:25,"b""#NowPlaying Josephine Marsh  Abbey Leix/The Peacock's Feather/Union Street Session (reels)""",Josephine Marsh  Abbey Leix,rock,The Peacock's Feather,Union Street Session ,,Neutral
+316,316,316,316,433,1/17/2019 7:24,b'Zero Cult  500 Seconds  #nowplaying',Zero Cult,pop,500 Seconds,Zero Cult  500 Seconds,,Neutral
+317,317,317,317,435,1/17/2019 7:24,b'#nowplaying Victoria La Mala  Si Va A Doler Que Duela .::  ::.',Victoria La Mala,Regional Mexican,Si Va A Doler Que Duela,Si Va A Doler Que Duela,,Neutral
+318,318,318,318,436,1/17/2019 7:24,b'#NowPlaying Simple Living by Stuart Townend   The Journey',Stuart Townend,Christian,Simple Living, The Journey,,Neutral
+319,319,319,319,437,1/17/2019 7:24,b'#nowplaying Remember Me (Kat Krazy Mix by Jennifer Hudson    ',Jennifer Hudson,Anime,Remember Me,Kat Krazy ,,Neutral
+320,320,320,320,438,1/17/2019 7:24,b'#nowplaying walk with you ft Jazzin park  TOMOSUKE  GuitarFreaksV6 &amp DrumManiaV6 BLAZING!!! Music Selection ',Jazzin park,Anime,walk with you,Edwin McCain,,Neutral
+321,321,321,321,439,1/17/2019 7:24,"b'RT   People are loving ""The Upside""....Go see what all of the hype is about damn it This movie does not disappoint....Lets'",kevin hart,pop,The Upside damn it!,Take your Boo to the movies and go see,,Negative
+322,322,322,322,441,1/17/2019 7:24,b'RT  _83 #NowPlaying  About to go down      #HashiruLiveParty  #Spinmagicsounds #MidWeekVibes  #Casablanca_Juba',Michael White,Electronic,About to go down,About to go down,,Negative
+323,323,323,323,442,1/17/2019 7:24,b'#NowPlaying We Could Be Free (Feat Ty Dolla $ign by Vic Mensa   #KeepingTheMusicInMotion ',Vic Mensa,Rap,We Could Be Free ,The Autobiography,,Positive
+324,324,324,324,443,1/17/2019 7:24,b'#NowPlaying You Deserve  Chrystal Rucker on   #ChroniclesChristianRadio #ccradioco',Chrystal Rucker,Christian,You Deserve,You Deserve,,Neutral
+325,325,325,325,444,1/17/2019 7:24,"b'#nowplaying ""To Be With You from  Feel a heartbeat Vol.0  [Live] by  '",Kelly Clarkson,pop,To Be With You ,Feel a heartbeat Vol,,Negative
+326,326,326,326,445,1/17/2019 7:24,b'#NowPlaying Crystal Bungalow  Kevin MacLeod',Kevin MacLeod,pop,Crystal Bungalow ,Crystal Bungalow ,,Neutral
+327,327,327,327,446,1/17/2019 7:24,b'#NowPlaying Souls of Mischief  93 til Infinity  on #BeatminerzRadio #HomeOfTheDJ Download our app in the iTunes or GoolePlay store.',93 'til Infinity,Rap,93 'til Infinity, Souls of Mischief,,Neutral
+328,328,328,328,447,1/17/2019 7:24,b'Unterwegs by Veysel  #NowPlaying on ',AK Ausserkontrolle,Rap,Veysel,Unterwegs XY,,Neutral
+329,329,329,329,448,1/17/2019 7:24,b'#nowplaying Tina Wanwa Baba Yakubu (Tribute song to my Grandfather by Brown Stone GH via   ',Brown Stone GH,Rap,Tina Wanwa Baba Yakubu, my Grandfather,,Neutral
+330,330,330,330,449,1/17/2019 7:24,"b""#NowPlaying She's One Sweet Show Girl (Show Girl [HC4 by Ben Pollack""",Ben Pollack,Jazz,She's One Sweet Show Girl,She's One Sweet Show Girl,,Positive
+331,331,331,331,452,1/17/2019 7:24,b'#NowPlaying Niall Horan  Slow Hands  With Lyrics on #kyobradio.com',Niall Horan,Pop,Slow Hands, Flicker\,,Negative
+332,332,332,332,453,1/17/2019 7:24,b'#NowPlaying Chills by Charlie Wilson on #UrbanRadio Smooth R&amp;B ',Charlie Wilson,Contemporary,Chills , In It to Win It,,Positive
+333,333,333,333,454,1/17/2019 7:24,"b'#NowPlaying ""Bubble Up Economics by Keep Right on   '",Keep Right,Pop,Bubble Up Economics,Bubble Up Economics,,Negative
+334,334,334,334,455,1/17/2019 7:24,"b'#NowPlaying ""I Don\'t Wanna by Aaliyah on   \n '",Aaliyah,Rap,I Don't Wanna, Next Friday,,Neutral
+335,335,335,335,456,1/17/2019 7:24,b'#NowPlaying Chris Brown Tyga  Ayo CLEAN on #FastCast4u.com',Chris Brown& Tyga,Soul,Tyga  Ayo,Fan of a Fan: The Album,,Positive
+336,336,336,336,457,1/17/2019 7:24,"b'#NowPlaying  Bobby ""Blue Bland by  That\'s The Way Love Is '",Bobby Bland,Classic Blues,That's The Way Love Is,Together for the First Time... Live,,Negative
+337,337,337,337,458,1/17/2019 7:24,"b""#NowPlaying U.N.V  Something's Going On on #tinoveeconcept.com""",U.N.V,Rock, Something's Going On,U.N.V  Something's Going On,,Neutral
+338,338,338,338,459,1/17/2019 7:24,b'#NowPlaying Gay Exposure by Aries Spears Tune in now at   ',Aries Spears,Rock,Gay Exposure,Gay Exposure,,Positive
+339,339,339,339,460,1/17/2019 7:24,b'#NowPlaying on   Buscrates 16 Bit Ensemble Feat Laura Benack  On My Own (Boogie-Funk  ',Laura Benack,rock,On My Own,Buscrates 16 Bit Ensemble ,,Positive
+340,340,340,340,462,1/17/2019 7:24,b'#NowPlaying Donnie McClurkin  Stand : Tune In ',Donnie McClurkin ,christian,Stand,Donnie McClurkin ,,Neutral
+341,341,341,341,463,1/17/2019 7:24,b'#nowplaying Joi Cardwell Jon Dasilva Maceo Plex  Love Somebody Else Feat Joi Cardwell (Original Mix ',Eric Estornel& Jon DaSilva,Electronic,Love Somebody Else,Love Somebody Else,,Negative
+342,342,342,342,464,1/17/2019 7:24,"b""#NowPlaying Bobby Goldsboro  It's Too Late on """,Bobby Goldsboro,Rock,It's Too Late, Honey,,Positive
+343,343,343,343,465,1/17/2019 7:24,b'#NowPlaying Juicy by The Notorious B.I.G on #UrbanRadio Old School Hip Hop ',The Notorious B.I.G,Rap,Juicy ,8 Mile,,Positive
+344,344,344,344,468,1/17/2019 7:24,b'#NowPlaying Madonna  Gambler on  ',Madonna,Pop,Gambler,vision quest,,Neutral
+345,345,345,345,469,1/17/2019 7:24,b'Mariah Carey  Open Arms\n#NowPlaying',Mariah Carey ,Contemporary ,Open Arms, Daydream,,Neutral
+346,346,346,346,471,1/17/2019 7:24,b'#NowPlaying Nightshift by Gregg Karukas',Gregg Karukas,Rock,Nightshift ,Nightshift ,,Neutral
+347,347,347,347,472,1/17/2019 7:24,"b""#NowPlaying Anastacia  I'm Outta Love (MTV on #nycfreestyle54fm.com""",Anastacia  ,Pop,I'm Outta Love,Not That Kind,,Negative
+348,348,348,348,473,1/17/2019 7:24,b'Mal The Oddity  Iodine (feat Josh White #NowPlaying',Mal The Oddity,Rap, Iodine,Mal The Oddity  Iodine ,,Neutral
+349,349,349,349,474,1/17/2019 7:24,"b'Now Playing ""Mad As Snow by Kitchens of Distinction\n#NowPlaying \n'",Kitchens of Distinction,Alternative,Mad As Snow , The Death of Cool,,Positive
+350,350,350,350,475,1/17/2019 7:24,b'#NowPlaying Ear To The Streets by King Puff on #UrbanRadio NewMusicInsite ', King Puff ,pop,Ear To The Streets , King Puff ,,Neutral
+351,351,351,351,476,1/17/2019 7:24,b'#NowPlaying on   All I Am ',jess glynne ,Pop,All I Am, Always In Between,,Neutral
+352,352,352,352,478,1/17/2019 7:24,b'#NowPlaying Run-D.M.C  Walk This Way (1986 on #Radiomagica877 ',Run-D.M.C,Rap,  Walk This Way,Raising Hell,,Neutral
+353,353,353,353,479,1/17/2019 7:24,b'#nowplaying DOUBLE  The Captain Of Her Heart\nWe loooove DOUBLE !!!\nThe love and glamorous radio from Paris.. visi ', DOUBLE,Rock,  The Captain Of Her Heart, DOUBLE  The Captain Of Her Heart,,Positive
+354,354,354,354,481,1/17/2019 7:24,b'#NowPlaying Christmas In Dixie  Alabama #Malta #MaltaChristmas #Christmas', Alabama,Country ,Christmas In Dixie,Alabama Christmas,,Neutral
+355,355,355,355,482,1/17/2019 7:24,b'  #NowPlaying Ryukyu Underground  Snow In Okinawa (Remix on Global Chillout by ',Ryukyu Underground,Pop,Snow In Okinawa,Ryukyu Underground,,Neutral
+356,356,356,356,483,1/17/2019 7:24,b'#NowPlaying Proud Mary [HJg  Creedence Clearwater Revival #TuneIn #AmazonEcho #InternetRadio \n',Proud Mary,pop,Creedence Clearwater Revival,Fantasy 1969 Arranged,,Positive
+357,357,357,357,484,1/17/2019 7:24,b'#nowplaying Promise by Adekunle Gold SIMI via   ',Adekunle Gold,Rap,Promise ,SIMI,,Neutral
+358,358,358,358,485,1/17/2019 7:24,b'#NowPlaying hansi ban gaee on #FastCast4u.com',Ami Mishra,Melody,hansi ban gaee,Hamari Adhuri Kahani,,Neutral
+359,359,359,359,486,1/17/2019 7:24,b'#nowplaying Good Citizens savagedrinks #2018albumsiveoverlooked ',Cash Savage and the Last Drinks,Alternative, savage drinks,Good Citizens,,Positive
+360,360,360,360,487,1/17/2019 7:24,b'#NowPlaying Superpoze  Opening ',Superpoze,Electronic,Opening,Opening,,Neutral
+361,361,361,361,488,1/17/2019 7:24,b'RT  _Sing #NowPlaying    San Dimas High School Football Rules  One of my favourite punk bands covering ano',San Dimas ,ROCK,High School Football Rules, punk bands,,Negative
+362,362,362,362,489,1/17/2019 7:24,b'#NowPlaying Enrique Iglesias  Experiencia religiosa entra a #', Enrique Iglesias,Pop,Experiencia religiosa ,Experiencia religiosa ,,Neutral
+363,363,363,363,490,1/17/2019 7:24,b'#NowPlaying Lexi  Abide on uGospel Radio!',Abide ,Christian,Lexi,uGospel,,Neutral
+364,364,364,364,492,1/17/2019 7:24,b'#NowPlaying Adam Werner  Kealia Sunrise',Adam Werner,New Age, Kealia Sunrise, Deep,,Neutral
+365,365,365,365,493,1/17/2019 7:24,b'#NowPlaying Midi Culture  New Rules Midi Culture \nLRdR  Radio Hits dcouvertes   ', Pascal Junior& Midi Culture,pop,New Rules ,New Rules ,,Positive
+366,366,366,366,494,1/17/2019 7:24,b'#NowPlaying Freddie And The Dreamers  Funny Over You On Atlantic Radio Uk #Hits',Freddie and the Dreamers,Pop, Funny Over You, Funny Over You,,Positive
+367,367,367,367,495,1/17/2019 7:24,b' Happy Clover #NowPlaying   ',Happy Clover,Anime,Happy Clover,Happy Clover,,Positive
+368,368,368,368,496,1/17/2019 7:23,b'#NowPlaying Exchange by Bryson Tiller on #UrbanRadio New R&amp;B ',Bryson Tiller,Soul,Exchange ,T R A P S O U L,,Positive
+369,369,369,369,497,1/17/2019 7:23,b'#NowPlaying The Process of Success by Evangelist Angela Showers', Evangelist Angela Showers,pop,The Process of Success ,The Process of Success ,,Positive
+370,370,370,370,498,1/17/2019 7:23,b'#NowPlaying on KDUB Radio Chevelle  Hats Off To The Bull\n\n',Chevelle,Rock,Hats Off to the Bull,Chevelle,,Neutral
+371,371,371,371,500,1/17/2019 7:23,b'#NowPlaying Cold Blooded Killer by Rob Godfrey #discoverunsigned  ',Rob Godfrey,Rock,Cold Blooded Killer,Cold Blooded Killer,,Negative
+372,372,372,372,501,1/17/2019 7:23,b'#nowplaying Dreaming Of You  Selena  info instagram  #musikenakseharian stop piracy  buy ',Selena,Pop,Dreaming Of You,Dreaming Of You  ,,Neutral
+373,373,373,373,503,1/17/2019 7:23,b'Over the Sky by DREAMCATCHER  #NowPlaying',DREAMCATCHER,Anime,Over the Sky,Over the Sky,,Neutral
+374,374,374,374,505,1/17/2019 7:23,b'RT   #NOWplaying \nSong Save Me\nAlbum Young Forever\n\n#BTS     _twt \n',Young Forever,pop,Save Me,Young Forever,,Negative
+375,375,375,375,506,1/17/2019 7:23,b'#NowPlaying Unthinkable by Alicia Keys on #UrbanRadio R&amp;B Hits ',Alicia Keys,Contemporary ,Unthinkable,The Element of Freedom,,Negative
+376,376,376,376,507,1/17/2019 7:23,b'#NowPlaying Nobody Greater by Vashawn Mitchell on #UrbanRadio Gospel Hits ',Vashawn Mitchell,Christian,Nobody Greater,Triumphant,,Positive
+377,377,377,377,509,1/17/2019 7:23,"b""#NowPlaying   Yvonne Elliman  If I Can't Have You""",Yvonne Elliman,Rock,  If I Can't Have You,Saturday Night Fever,,Neutral
+378,378,378,378,510,1/17/2019 7:23,b'#nowplaying Ma Cherie  Abou Diarra (Koya  2016  ',Abou Diarra,Pop,Ma Cherie,Koya  ,,Neutral
+379,379,379,379,512,1/17/2019 7:23,b'Bukan Cinta Biasa by Afgan  #NowPlaying', Afgansyah Reza,Pop,Bukan Cinta Biasa, The One,,Neutral
+380,380,380,380,513,1/17/2019 7:23,b'#NowPlaying Death  Cosmic Sea #Radio #webplayer ',Death,Metal,  Cosmic Sea,Human,,Neutral
+381,381,381,381,515,1/17/2019 7:23,b'#NowPlaying    San Dimas High School Football Rules  One of my favourite punk bands c ',the ataris,Rock,San Dimas High School Football Rules,San Dimas High School Football Rules,,Positive
+382,382,382,382,516,1/17/2019 7:23,b'End Game  Taylor Swift feat Ed Sheeran &amp Future #NowPlaying #IstaraFM [14:23 wib]',Taylor Swift,Pop,End Game ,Reputation,,Negative
+383,383,383,383,517,1/17/2019 7:23,"b'#Trending #Music ""Down For You ft Rich Homie Quan Prod by Jay-Mo by ""Lynn Tate""\n#NowPlaying '",Lynn Tate,Rock,Down For You ,rich homie quan,,Negative
+384,384,384,384,518,1/17/2019 7:23,b'RT   #NowPlaying   ft     Dem No Be God',Mike Abdul,pop,Dem No Be God,Babatunmise,,Neutral
+385,385,385,385,519,1/17/2019 7:23,b'#NowPlaying Shout (Us Dub Mix by Tears for Fears on  in #RVA  Please Like &amp RT #80sChildRadio',Tears for Fears ,Pop,Shout , Songs from the Big Chair,,Neutral
+386,386,386,386,520,1/17/2019 7:23,b'RT    \n\n/(ARAYA)/A-05orA-60 #USEN #umgarden #NowPlaying\n\n\n\n#YouTube \n#\n',Alicia Keys,Contemporary ,No One,As I Am,,Neutral
+387,387,387,387,521,1/17/2019 7:23,b'#NowPlaying on   No One ',Haruka Tomatsu,Pop,Girls be ambitious,Rainbow Road,,Neutral
+388,388,388,388,525,1/17/2019 7:23,b'#NowPlaying Amazing Kiss by BoA via   ',BoA,pop,Amazing Kiss,Amazing Kiss,,Positive
+389,389,389,389,527,1/17/2019 7:23,b'Datura  Eternity is #NowPlaying on  ',Datura,Rock,Datura  Eternity,Eternity,,Neutral
+390,390,390,390,528,1/17/2019 7:23,b'Schedule #nowplaying\nListen now at ', ,rock,Schedule,,,Neutral
+391,391,391,391,530,1/17/2019 7:23,b'#NowPlaying en #PromezaRadio No te has dado cuenta  Bambu7', Bambu7,pop,No te has dado cuenta,,,Neutral
+392,392,392,392,531,1/17/2019 7:23,b'Feeling Lonely de boy pablo  #NowPlaying',Boy Pablo,Alternative/Indie,Feeling Lonely, Soy Pablo,,Negative
+393,393,393,393,532,1/17/2019 7:23,b'#NowPlaying Unknown  dj radio day.mp3',dj,pop,dj,,,Negative
+394,394,394,394,533,1/17/2019 7:23,b'RT   Into The Mystic by Van Morrison  #NowPlaying', Van Morrison,Country music and Classic Rock,Into The Mystic, Moondance,,Neutral
+395,395,395,395,534,1/17/2019 7:23,b'#NowPlaying The jazzy Gipsy  Caf Del Chillia', Café Del Chillia,jazz,The jazzy Gipsy, The Jazzy Gipsy,,Neutral
+396,396,396,396,535,1/17/2019 7:23,b'  Que bonita #NowPlaying las rolas de Ximena Sariana', Florencio Morales Ramos,rock, Que bonita ,,,Neutral
+397,397,397,397,536,1/17/2019 7:22,b'She Sells Sanctuary by The Cult  #nowplaying #6music', The Cult,Alternative/Indie and Rock,She Sells Sanctuary, Love,,Neutral
+398,398,398,398,537,1/17/2019 7:22,b'RT   #NowPlaying Kathleen by Catfish and the Bottlemen  #alternative #alternativerock ',Catfish And The Bottlemen,Alternative/Indie and Rock,Kathleen,The Balcony,,Neutral
+399,399,399,399,538,1/17/2019 7:22,"b'Currently tuned into ""Manuel Gttsching E2-E4 by    #nowplaying at '", ,rock,"Manuel Gttsching E2-E4,
+539, , ,My Green Park,everything
+540,Robin Schulz, House,Headlight,Sugar
+541, ,Gospel music,WOW Gospel 2000,Compilation
+542, , ,LAVENDER ,
+543,BeBe Winans, ,He Promised Me via,
+544,Blackbirds Roar, ,Strike Anywhere,
+545,Drake ft,pop, Swizz Beatz  Fancy (Clean),
+546, ,pop music,party,
+547,The Cult,Alternative/Indie&Rock,She Sells Sanctuary, Love
+548, The Strokes,Alternative/Indie,Last Nite,Is This It
+549,Akon, ,Akon  Locked Up instrumental,
+550, The Stone Roses, Brit Pop,I Wanna Be Adored, The Stone Roses
+551,Elle Archer, R&B/Soul, Propaganda,
+552, Mandy Moore, Pop,Have A Little Faith In Me, Coverage
+553,Alicia Keys , ‎Neo soul,Fire We Make,
+554,Kari Jobe,Christian/Gospel,I'm Not Alone, Majestic
+555,Stewart Copeland,pop,Brothers On Wheels, Rumble Fish
+556, Spliff,Pop,Spliff  Heut Nacht', 85555
+557, , Pop,Tattoo Colour,Hong Ser,
+558, Ohio Players, R&B/Soul,Fire,Fire
+559,Tamela Mann, ,Tamela Mann,
+560,T.M.Soundararajan', ,T.M.Soundararajan',Murugan Padalgal
+561,Tame Impala, Alternative/Indie,Mind Mischief, Lonerism
+562,KIM JAE JOONG, ,KIM JAE JOONG J-PARTY,
+564, Sonata Arctica, Metal,We Are What We Are, The Ninth Hour
+565, Queen,jazz,Don't Stop Me Now,jazz
+566, , ,odorBaby2019,
+567, Mark Funk&Danny Cruz,pop,americana,
+568, Hyuna,pop, lip & hip,
+569, Matou Samuel, Christian/Gospel,Kiesse Mu Yesu,
+570,Mustapha Chahbouni', ,Adday Yiri Woul Cha Ourda iTchawar,
+571,Wayne Shorter,pop,Yes or No,juju
+572,Metallica,Metal,Fade To Black, Ride the Lightning
+573, , ,Einstein ga,tokenakatta mondai
+574,Pape Franois,gospal,Pape Franois msg,
+575,enanitos verdes,pop,Te vi en un tren,
+576,AhAhlu LAHI, ,Ahlu LAHI  Niane Mame Rane 2018 Hommage 1',
+577, , ,EnCeMoment sur Antina   Si Moh  Zman',
+578,Chris Crack,pop,Chris Crack ,Last of the Lean
+579,Lacuna Coil, Metal,Trip the Darkness, Dark Adrenaline
+580,Lacuna Coil, Metal,Trip the Darkness, Dark Adrenaline
+581, Amelia Warner,Alternative/Indie,Please Please Please Let Me Get What I Want,Renditions
+582, Black Thought,Hip-Hop/Rap,The New Grit, Streams Of Thought Vol. 2
+584,GreatGildersleeve, ,Jolly Boy's Sleigh Ride,
+585,Tamar Braxton,Contemporary R&B,The One ,Love and War
+586, French Montana,Hip-Hop/Rap,Ain\'t Worried About Nothin, Excuse My French
+587,Spike Lee, ,Exclusive Interview,
+589,Katy Tiz,pop,Life,
+590,B COLE,pop,BANKROLL
+592,Perfecto Allstarz Freejak,pop,Reach Up,
+593, Lil Wayne, Hip-Hop/Rap,Uproar,Tha Carter V
+594,Jaejoong, ,LAVENDER,
+595, , ,Though there are some similarities to On The Corner,
+596, , ,Colision y Fuga,
+597,Chi Tashi ,hip-pop,THE HOME OF BOSTON,Sleeping Giant 
+598,Be Bop A Lula, , Gene VINCENT,
+599,Bad Bunny, ‎Latin trap,Bad Bunny,
+600,The Beach Boys,Pop rock‎,California Girls On Atlantic,
+601, Letlive, Alt Metal, Who You Are Not, If I'm the Devil
+602,Led Zeppelin,pop,Black Dog
+604, Dioni Fernandez,pop,No se que hacer,
+605,petit milady, ,petit milady
+606,KinKi Kids,pop,co  KinKi Kids,
+607,Indian television series,dance,Just Dance by HINID,dance show
+608, Linus Loves ,music,Stand Back,
+609,Damon Albarn,Brit Pop,Mr Tembo, Everyday Robots
+610, , ,brahm Qadr  Henar henar henar e,
+611, , ,LOS NINOS DEL CLUB,
+613, , , Maltby Miners Welfare Band,
+614, Roselia, Anime,BRAVE JEWEL, Bushiroad Music
+615, , ,Goes Around by   on BLACKFLIGHTRADIO,
+616, Carly Simon, Vocal/Easy Listening,Carly Simon , No Secrets
+617, Howard Jones, Rock and Pop,Life In One Day, Dream into Action
+618, Ace Hood ,pop,2 Mollys
+619,Bria Lee,pop,One Shot
+620,electronic,music, Rise (Earth is Full Mix),
+621, Lower Spectrum,Dance/Electronic, KHLEVER,Traces
+622, , ,Ferrari,
+623, , ,CANDYLADY MIX 1.5 Circle,
+624, David Allen, ,Prophet,
+625, Jazmin Ghent,Jazz,Heat, The Story of Jaz
+626,Calico ,pop, TruStory 
+627,Roc Boys, ,he Winner Is,
+628,2 Chainz,Hip-Hop/Rap,Feds Watching, B.O.A.T.S. II: Me Time
+629, Drake,Hip-Hop/Rap,In My Feelings, Scorpion
+630, , ,The Origin (Including """"Dragon"""")",,,Neutral
+400,400,400,400,631,1/17/2019 7:20,b'#NowPlaying RECORDED LIVE AT THE SONICA VENAO FESTIVAL 2018 PT3 by IGOR MARIJUAN B2B ERNESTO ALTES on ',IGOR MARIJUAN,rock,A VENAO FESTIVAL 2018 PT3,,,Positive
+401,401,401,401,632,1/17/2019 7:20,b'#nowplaying Suite Populaire Espagnole  Jota  Arrangement Pour Violon et Harpe  Philippe Villafranca (No Piano N ', ,rock,Suite Populaire Espagnole  Jota  Arrangement Pour Violon et Harpe,,,Neutral
+402,402,402,402,633,1/17/2019 7:20,b'#NowPlaying Saken Albi by Suzanne Tameem on #Anghami  ', Suzanne Tameem,pop, Saken Albi,,,Neutral
+403,403,403,403,634,1/17/2019 7:20,b'#nowplaying \n#songsinfo', ,rock,songsinfo,,,Neutral
+404,404,404,404,635,1/17/2019 7:20,b' #nowplaying #enreproduccion Bodybangers  Love Come Down(Radio Edit #Bodybangers en #RadioDance', Bodybangers,rock,Love Come Down,,,Positive
+405,405,405,405,636,1/17/2019 7:20,"b'#nowplaying ""Tame Impala  Sestri Levante [Live] from the album [Currents [Live [Bonus Disc]] #tameimpala'",Tame Impala,Psychedelic Rock, Sestri Levante, Live Versions,,Negative
+406,406,406,406,637,1/17/2019 7:20,b'528Hz\n  #BGM #BGM #NowPlaying ', ,rock,BGM,,,Neutral
+407,407,407,407,638,1/17/2019 7:20,b'Born of Osiris #NowPlaying on   The Simulation ', Born Of Osiris, Rock,The Simulation,Sumerian Records,,Neutral
+408,408,408,408,639,1/17/2019 7:20,b'RT   #nowplaying Competition on starvation by Capablenino feat Zagiebeats via the   app ',Capablenino feat Zagiebeats ,rock,starvation,,,Neutral
+409,409,409,409,640,1/17/2019 7:20,"b""RT    #NowPlaying #Kalmah  Burbot's Revenge    #playstation #PlayStation4 #PS2 #PS1 #PS3 #playstat""", Kalmah,Black/Death Metal, Burbot's Revenge,Swampsong,,Neutral
+410,410,410,410,641,1/17/2019 7:20,"b' #nowplaying ""Carmen (Intermezzo)"" Georges Bizet in #RadioLounge'",Georges Bizet,rock,Carmen (Intermezzo),,,Neutral
+411,411,411,411,642,1/17/2019 7:20,b'RT  _51 \nAyingEntertainment weibo\n2019 KIM JAEJOONG J-PARTY&amp;MINI CONCERT in HK\n\n\n  #',KIM JAEJOONG,POP,nAyingEntertainment J-PARTY;MINI,,,Neutral
+412,412,412,412,643,1/17/2019 7:20,"b'#NowPlaying ""19 You  Me by Dan  Shay on   \n '",Dan  Shay,rock,You  Me ,,,Neutral
+413,413,413,413,644,1/17/2019 7:20,"b""CLICK TO LISTEN    #NOWPLAYING  Billy Danze  I'ma Kill Ya ft Preacher   #hhm #hiphop """,Billy Danze,rock,I'ma Kill Ya ft Preacher,,,Neutral
+414,414,414,414,645,1/17/2019 7:20,b'#NowPlaying Night &amp Day by Al B Sure on #UrbanRadio Greatest Hits R&amp;B ',Al B Sure on Greatest, ‎New jack swing,Night &amp Day ,,,Negative
+415,415,415,415,646,1/17/2019 7:20,b'#NowPlaying Vamps  Devil Side on   #Radio #Tokyo Listen HERE   ', Vamps,ROCK,Devil Side, Beast,,Neutral
+416,416,416,416,647,1/17/2019 7:20,b'RT   JYJ LINE JP\n    \n2019 KIM JAE JOONG J-PARTY&amp;MINI CONCERT\n  1',KIM JAE JOONG,pop,MINI CONCERT,,,Neutral
+417,417,417,417,648,1/17/2019 7:20,b'Defintiely a gripping thriller TAKER OF LIVES #Retweet #nowplaying #love #marketing #Amazon #twitter #sale #LW ', ,rock,Defintiely a gripping thriller TAKER OF LIVES,,,Negative
+418,418,418,418,649,1/17/2019 7:20,b'#NowPlaying Junket Man by Dan Patlansky  ', Dan Patlansky ,Blues ,Junket Man, Perfection Kills,,Neutral
+419,419,419,419,650,1/17/2019 7:20,"b""#NowPlaying Nobody's Perfect by J Cole on #UrbanRadio Old School Hip Hop """,J. Cole,Hip-Hop/Rap,Nobody's Perfect, Cole World: The Sideline Story,,Negative
+420,420,420,420,651,1/17/2019 7:20,b'#NowPlaying Novamerica  Music is the Answer', Novamerica, Alternative/Indie, Music is the Answer,Novamerica,,Neutral
+421,421,421,421,652,1/17/2019 7:20,b'#NowPlaying To The One  Harvest Bashta on   #ChroniclesChristianRadio #ccradioco', ,gospal,To The One  Harvest Bashta on,,,Neutral
+422,422,422,422,653,1/17/2019 7:20,b'RT    #NowPlaying #Children Of Bodom  Hate Crew Deathroll    #playstation #PlayStation4 #PS2 #PS1', Children of Bodom,‎power metal,Hate Crew Deathroll,Children of Bodom,,Negative
+423,423,423,423,654,1/17/2019 7:20,b'#NowPlaying  Survivor      #MICCratesRadio   Download the app    Submit your music today!', Destiny's Child,Contemporary R&B,Survivor,,,Neutral
+424,424,424,424,655,1/17/2019 7:20,b'#NowPlaying #JullianGomesfeat.Bobby  Love Song 28   #deephouse on Air ',JullianGomesfeat,pop,bobby,,,Positive
+425,425,425,425,656,1/17/2019 7:20,b'#NowPlaying Unknown  Elo Ellello Elo Ellello Unknown',Unknown,rock,Elo Ellello Elo Ellello,,,Negative
+426,426,426,426,657,1/17/2019 7:20,b'#NowPlaying Cline Dion  How Does A Moment Last Forever #musicforfamilies #musicforkids #children', Celine Dion,rock,How Does A Moment Last Forever,Beauty and the Beast,,Neutral
+427,427,427,427,658,1/17/2019 7:20,b'[NOA]:(2019/01/17 16:19 REMINISCING  LITTLE RIVER BAND  SUPER RADIO MONSTER   #nowplaying', Little River Band,Rock,REMINISCING, Sleeper Catcher,,Positive
+428,428,428,428,659,1/17/2019 7:20,"b""I'm listening to   on   #NowPlaying   the Harry Potter of amazing books  """,the Harry Potter of amazing books ,rock,the Harry Potter of amazing books ,,,Negative
+429,429,429,429,660,1/17/2019 7:19,b'#ListenToThis Ndza swi rhandza (feat Pastor Rudolf Mabasa [Live by Zaza #NowPlaying on  _UK ',Zaza, Christian/Gospel,Ndza swi rhandza (feat Pastor Rudolf Mabasa,Blowing the Horn of Chronicle (Live),,Positive
+430,430,430,430,661,1/17/2019 7:19,b'#NowPlaying Falco  Rock Me Amadeus (86 [Single Edit Listen at  ',Falco, Pop, Rock Me Amadeus,falco 3,,Negative
+431,431,431,431,662,1/17/2019 7:19,b'#NowPlaying Finally by CeCe Pinston on #UrbanRadio Old School R&amp;B ',CeCe Peniston, Dance/Electronic,Finally, Finally,,Positive
+432,432,432,432,663,1/17/2019 7:19,b'#Nowplaying on    Tepr  1980',Tepr, Dance/Electronic,Tepr 1980,test,,Neutral
+433,433,433,433,664,1/17/2019 7:19,b'#NowPlaying Justin Moore  #LettinTheNightRoll On ',Justin Moore,Country music, Country, LettinTheNightRoll, Off the Beaten Path,Neutral
+434,434,434,434,665,1/17/2019 7:19,b'#nowplaying ASCA  RESISTER  RESISTER  Single ', ,rock,ASCA  RESISTER Single,,,Negative
+435,435,435,435,666,1/17/2019 7:19,b'ANONE   (CV. (CV. #NowPlaying   ', Chinatsu Yoshikawa,rock,Chinatsu Yoshikawa,,,Neutral
+436,436,436,436,667,1/17/2019 7:19,b'#NowPlaying King of Pain  Synchronicity by The Police ', The Police, Rock,King of Pain, Synchronicity,,Neutral
+437,437,437,437,668,1/17/2019 7:19,b'Happier   Marshmello &amp Bastille #NowPlaying #IstaraFM [14:19 wib]',Marshmello,Dance/Electronic,Happier Marshmello, Astralwerks,,Neutral
+438,438,438,438,669,1/17/2019 7:19,b'#NowPlaying on AM1700   Bill Evans  Emily', ,rock,Bill Evans  Emily,,,Neutral
+439,439,439,439,670,1/17/2019 7:19,b'#nowplaying 48kHz  by  on #onkyo #hfplayer ', ,rock,48kHz,,,Neutral
+440,440,440,440,671,1/17/2019 7:19,b'#NowPlaying Light Show (Adonai by Pelle Price on  ', Pelle' Price, Christian/Gospel,Light Show,,,Positive
+441,441,441,441,672,1/17/2019 7:19,b'#Nowplaying\nWithin\nMili', ,rock,within\milli,,,Neutral
+442,442,442,442,673,1/17/2019 7:19,b'#NowPlaying Permission by Ro James on #UrbanRadio Hip Hop and R&amp;B ', Ro James, R&B/Soul,Permission, ELDORADO,,Neutral
+443,443,443,443,674,1/17/2019 7:19,b'#NowPlaying Permission by Ro James on #UrbanRadio Hip Hop and R&amp;B ', Ro James, R&B/Soul,Permission, ELDORADO,,Neutral
+444,444,444,444,675,1/17/2019 7:19,b'Our Girl  I Really Like It  #NowPlaying #6music', Our Girl,Alternative/Indie,Our Girl  I Really Like It,Stranger Today,,Positive
+445,445,445,445,676,1/17/2019 7:19,b'#NowPlaying Fazino  Loke Loke Ft Tutipsy on ',Fazino ,rock,Fazino  Loke Loke Ft Tutipsy,,,Neutral
+446,446,446,446,677,1/17/2019 7:19,"b'#NowPlaying No Longer Slaves (Official Lyric Video  Jonathan David &amp Melissa Helser  We Will Not Be Shaken on #LifecomRadio.org,uk'", Bethel Music,Christian/Gospel,No Longer Slaves, We Will Not Be Shaken (Live),,Positive
+447,447,447,447,678,1/17/2019 7:19,"b""#NowPlaying Ella Mai  Boo'd Up on #FastCast4u.com""", Ella Mai,pop,Ella Mai  Boo'd Up, Ella Mai,,Neutral
+448,448,448,448,679,1/17/2019 7:19,"b'#NowPlaying En jotabecheradio escuchas ""Hermoso en la voz de 3 For Him jotabeche'",jotabeche,rock,"En jotabecheradio escuchas """"Hermoso en la voz de 3 For Him jotabeche'""",,,Neutral
+449,449,449,449,680,1/17/2019 7:19,b'#NowPlaying  Intro by Fmb Dz_', FMB DZ, Hip-Hop/Rap,Intro, I Ain't Gone Lie,,Neutral
+450,450,450,450,682,1/17/2019 7:19,b'#NowPlaying Son Sabor Orquesta  La Herida 1 on #FREQUENCY5FM', ,rock,Son Sabor Orquesta  La Herida,,,Neutral
+451,451,451,451,683,1/17/2019 7:19,b'Then Came the Last Days of May by Blue yster Cult  #NowPlaying', Blue Öyster Cult, Hard Rock,Then Came the Last Days of May, Blue Öyster Cult,,Neutral
+452,452,452,452,684,1/17/2019 7:19,b'#NowPlaying vanilla base  its been so long on #CR       #CalibreMusicAndFilms #CIGI',vanilla base,pop,vanilla base  its been so long on,,,Negative
+453,453,453,453,685,1/17/2019 7:19,b'LET FREEDOM RING WITH A SHOTGUN BLAAAAAAAAAAAAAAAAST!! \n#NowPlaying on   Davidian ',Machine Head,Groove metal,Davidian, Burn My Eyes,,Neutral
+454,454,454,454,686,1/17/2019 7:19,b'#NowPlaying on #CacoteoRadio #Reggaeton   Landa Freak Ft Lexy El Duro  Como Olvidar(Prod Many4Track &amp;amp ', ,rock,Landa Freak Ft Lexy El Duro  Como Olvidar,,,Neutral
+455,455,455,455,687,1/17/2019 7:19,b'#NowPlaying on #CacoteoRadio #Reggaeton Landa Freak Ft Lexy El Duro  Como Olvidar(Prod Many4Track &amp;amp Lexus Be ', ,rock,Landa Freak Ft Lexy El Duro  Como Olvidar,,,Neutral
+456,456,456,456,688,1/17/2019 7:19,b'#NowPlaying Kont Fe Baly by   on #Anghami  ', ,rock,Kont Fe Baly,,,Neutral
+457,457,457,457,689,1/17/2019 7:19,b'#NowPlaying Godzilla Jingle  Trax FM #traxfm  #funk #soul #hiphop #house  #disco #reggae #chat #bhangra #hindi #RnB #AfroBeats', ,Heavy metal‎,Godzilla Jingle,,,Neutral
+458,458,458,458,691,1/17/2019 7:19,b'#NowPlaying De La Soul  Church', De La Soul, Hip-Hop/Rap,Church, The Grind Date,,Neutral
+459,459,459,459,692,1/17/2019 7:19,b'#NowPlaying Mike P  About The Love on #ATLSNUMBER1WEBRADIO  ', ,rock,Mike P  About The Love,,,Positive
+460,460,460,460,693,1/17/2019 7:19,b'I Really Like It by Our Girl  #nowplaying #6music',Our Girl,Alternative/Indie,Our Girl  I Really Like It,Stranger Today,,Positive
+461,461,461,461,694,1/17/2019 7:19,b'#NowPlaying   Amy Grant  Baby Baby  ON #GGhRADIO  #GospelGh  | Download #GGhRADIO app FREE from Google Pla ', Amy Grant,Christian/Gospel,Baby Baby,Heart in Motion,,Positive
+462,462,462,462,695,1/17/2019 7:19,b'#NowPlaying Oh Atlanta by Little Feat at Live Jam 107    Waiting ', ,rock,Oh Atlanta by Little   Waiting,,,Positive
+463,463,463,463,696,1/17/2019 7:19,b'#NowPlaying Ruede Hagelstein  Emergency (Original edit version ',Ruede Hagelstein,rock,Emergency,,,Negative
+464,464,464,464,697,1/17/2019 7:18,b'#NowPlaying All Of My Help by Geoffrey Golden on #WNIAGospelRadio  inside the Super Mix Rotation #ListenLive  DOWN ',Geoffrey Golden, Christian/Gospel,All Of My Help, Kingdom...LIVE!,,Positive
+465,465,465,465,698,1/17/2019 7:18,"b'Es Tarde by Juanes  #NowPlaying This one is from a playlist called ""The Halfway Home more in the thread'",' Juanes,rock,"  """"The Halfway Home more in the thread'""",,,Negative
+466,466,466,466,699,1/17/2019 7:18,b'Ben Tankard &amp Tribe of Benjamin  Spend Some Time With Me  #NowPlaying On   Ben Tankard', Ben Tankard,Christian/Gospel,Spend Some Time With Me, Git Yo Praize On!,,Neutral
+467,467,467,467,700,1/17/2019 7:18,b'NE1fm 102.5 is #NowPlaying  Roar by Katy Perry', Katy Perry,pop,roar, Prism,,Neutral
+468,468,468,468,701,1/17/2019 7:18,"b'Now Playing ""The Seeming and the Meaning by Stereolab\n#NowPlaying \n'", Stereolab, Alternative/Indie,The Seeming and the Meaning, Peng!,,Neutral
+469,469,469,469,702,1/17/2019 7:18,"b""#nowplaying Somebody I'm Not (Cahill Edit by Martin Jensen Cahill    _Official""", Martin Jensen&Peter Bjørnskov, Dance/Electronic,Martin Jensen,,,Neutral
+470,470,470,470,703,1/17/2019 7:18,b'#NowPlaying I Could Sing Of Your Love Forever  Sonicflood',Sonicflood,pop,I Could Sing Of Your Love Forever  ,Sonicflood,,Positive
+471,471,471,471,704,1/17/2019 7:18,b'Killer  Seal  #NowPlaying', Adamski,House & Dance/Electronic & Pop,Killer,,,Neutral
+472,472,472,472,705,1/17/2019 7:18,"b'#nowplaying ""Mr Liar from  This is NOT Greatest Hits by MUCC'", Mucc,Alt Metal & Rock,Mr Liar, Shangri-La,,Positive
+473,473,473,473,706,1/17/2019 7:18,b'#NowPlaying on KDUB Radio JERRY HULL  Periscope Down\n\n', ,rock, KDUB JERRY HULL  Periscope,,,Neutral
+474,474,474,474,707,1/17/2019 7:18,b'#NowPlaying Nine Inch Nails  Heresy\n\n#Shuttle ', Nine Inch Nails,Alt Metal& Goth/Industrial,Nine Inch Nails, The Downward Spiral,,Neutral
+475,475,475,475,708,1/17/2019 7:18,b'A noite de Ti  #NowPlaying', ,rock,A noite de Ti,,,Neutral
+476,476,476,476,709,1/17/2019 7:18,b'#NowPlaying Born to Hate.mp3 by Internal Nightmare',Internal Nightmare,metal,born to hate, Chaos Reborn,,Neutral
+477,477,477,477,710,1/17/2019 7:18,b'Brandy  Come A Little Closer\n#NowPlaying', Brandy Norwood, Contemporary R&B,Brandy  Come A Little Closer, Full Moon,,Negative
+478,478,478,478,711,1/17/2019 7:18,"b""#NowPlaying L'ArcenCiel  NEO UNIVERSE ALBUM The Best Of L'Arc-en-Ciel 1998-2000""", ,rock, L'ArcenCiel  NEO UNIVERSE ALBUM The Best Of L'Arc-en-Ciel,,,Positive
+479,479,479,479,712,1/17/2019 7:18,b'#NowPlaying Losing My Religion by  _coil on #Anghami ', Lacuna Coil, Metal,Losing My Religion, Dark Adrenaline,,Neutral
+480,480,480,480,713,1/17/2019 7:18,b'#NowPlaying\nFUTARI /', ,rock,nFUTARI ,,,Neutral
+481,481,481,481,714,1/17/2019 7:18,b'#NowPlaying Jenni Dale Lord Band  Never Let Go : Tune In ',Jenni Dale Lord Band, Country,  Never Let Go,Jenni Dale Lord Band,,Neutral
+482,482,482,482,715,1/17/2019 7:18,b'#NowPlaying Losing My Religion by  _coil on #Anghami ',Lacuna Coil, Metal,Losing My Religion, Dark Adrenaline,,Neutral
+483,483,483,483,716,1/17/2019 7:18,b'RT   #NowPlaying eminem  Space Bound \nI have zero strength!',eminem,pop, Space Bound \nI have zero strength!',,,Neutral
+484,484,484,484,717,1/17/2019 7:18,"b""#nowPlaying April Wine  Fast Train\nAll Stars '70s  \nYour home for Classic Hits""", ,rock,April Wine  Fast Train\nAll Stars '70s,,,Positive
+485,485,485,485,719,1/17/2019 7:18,b'#NowPlaying No Milk Today [HK0  Herman s Hermits #TuneIn #AmazonEcho #InternetRadio \n', Herman's Hermits,pop,No Milk Today Herman s Hermits, There's a Kind of Hush All Over the World,,Neutral
+486,486,486,486,720,1/17/2019 7:18,b'#nowplaying    ()  ()  ()  ()  (  THE IDOLM  CINDERELLA ', ,rock,THE IDOLM  CINDERELLA,,,Neutral
+487,487,487,487,721,1/17/2019 7:18,b'RT  _anly  Anly  #NowPlaying', ,rock,anly  Anly ,,,Neutral
+488,488,488,488,722,1/17/2019 7:18,b'#NowPlaying on #CacoteoRadio #Reggaeton Landa Freak Ft Lexy El Duro  Como Olvidar(Prod Many4Track &amp;amp Lexus Be ',Reggaeton Landa Freak Ft ,pop,Lexy El Duro  Como Olvidar(Prod Many4Track &amp;amp Lexus Be,,,Neutral
+489,489,489,489,723,1/17/2019 7:18,b'#live  #onlineradioever      #NowPlaying   Tough Love  So Freakin Tight  \n#music     #HappyNewYear', Tough Love,Dance/Electronic, Freakin Tight, How Deep Is Your House?,,Positive
+490,490,490,490,724,1/17/2019 7:18,b'NATAL PRIDE   CONFESSION #nowplaying on Eat This #Rock N #Metal WebRadio ', Natal Pride,pop, CONFESSION, ,,Neutral
+491,491,491,491,726,1/17/2019 7:18,"b""#NowPlaying Behind Moon [Live  LeSCa (   (t7s 3rd Anniversary Live 17'XX -CHAIN THE BLOSSOM in """, Le☆S☆Ca,pop,behind moon,,,Positive
+492,492,492,492,727,1/17/2019 7:18,"b'#nowplaying  5 from ""15 Thank you too by \'17'", ,rock,"5 from """"15 Thank you too",,,Neutral
+493,493,493,493,728,1/17/2019 7:18,b'#NowPlaying Finding My Way Back by Jaheim on #UrbanRadio Smooth R&amp;B ',Jaheim  ,pop , Finding My Way Back,,,Positive
+494,494,494,494,729,1/17/2019 7:18,b'#Nowplaying  (original ver.  RADWIMPS ( ', Radwimps, Rock,original ver.  RADWIMPS,Your Name,,Negative
+495,495,495,495,730,1/17/2019 7:18,b'Right now on Radio Frequency Zic  Boney M  Rasputin REMIX Listen   #cnn #webradio ', ,rock,Zic  Boney M  Rasputin REMIX,,,Positive
+496,496,496,496,731,1/17/2019 7:18,b'#NowPlaying Gil-Joe  Eledumare',Gil Joe, Christian/Gospel,Gil-Joe  Eledumare', Maturity,,Neutral
+497,497,497,497,732,1/17/2019 7:18,b'#NowPlaying Move Along Catherine King  ', Catherine King,Country,Move Along, Hold on to Your Heart,,Neutral
+498,498,498,498,733,1/17/2019 7:18,"b""#NowPlaying on RADIO COCCINELLE la radio OVNI  LIME  BABE WE'RE GONNA LOVE TONIGHT BABE WE'RE GONNA LOVE TONIGHT L """, ,pop ,BABE WE'RE GONNA LOVE TONIGHT,,,Negative
+499,499,499,499,734,1/17/2019 7:18,b'Ahora Escuchas a Joe Jackson  Steppin Out #NowPlaying ',Joe Jackson ,rock,Ahora Escuchas a  Steppin Out,,,Neutral
+500,500,500,500,735,1/17/2019 7:17,b'#NowPlaying A Fistful Of Tears by Maxwell on #UrbanRadio R&amp;B Hits ',Maxwell,Contemporary Soul,A Fistful Of Tears,BLACKsummers'night,,Neutral
+501,501,501,501,736,1/17/2019 7:17,b'#NowPlaying Sorry by Beyonce on #UrbanRadio New R&amp;B ',Beyonce,pop, Sorry, Lemonade,,Negative
+502,502,502,502,737,1/17/2019 7:17,"b""I'm listening to   on   #NowPlaying today from 11am Time Tunnel Show  """, Chris McClarney,Christian/Gospel,I'm listening,Breakthrough,,Neutral
+503,503,503,503,738,1/17/2019 7:17,b'The Cranberry Merchants  The Black Maria Streaming LIVE on Indie Star Radio Listen at  ',Cranberry Merchants,music,the Black Maria Streaming,,,Negative
+504,504,504,504,739,1/17/2019 7:17,b'Nowplaying   HIMEHINA #NowPlaying ', ,rock, HIMEHINA,,,Neutral
+505,505,505,505,740,1/17/2019 7:17,"b""#NowPlaying When I Was A Ship  Hats Off Gentlemen It's Adequate""",Hats Off Gentlemen It's Adequate,Rock,Hats Off Gentlemen It's Adequate,Stand up B / W When I Was a Ship,,Negative
+506,506,506,506,741,1/17/2019 7:17,b'We are the goon squad and were coming to town\nBeep beep\n#davidbowie #fashion #nowplaying #missbowie #seemsapt #brexit',David Bowie,pop,We are the goon squad,,,Neutral
+507,507,507,507,742,1/17/2019 7:17,b'RT   #NowPlaying On Classic House Radio   Native Love  Step By Step  by DIVINE  HouseMusic Chicag',DIVINE,pop,Step By Step,,,Negative
+508,508,508,508,743,1/17/2019 7:17,b'EQUAL by Coco #NowPlaying ',coco,rock,EQUAL,strawberry,,Neutral
+509,509,509,509,744,1/17/2019 7:17,b'#NowPlaying on   Colors  Am I gonna be the one    #funk #80s #disco #radio #classics', ,rock, Colors  Am I gonna be the one,,,Neutral
+510,510,510,510,745,1/17/2019 7:17,b'#nowplaying   Los Lobos  La Bamba\n\n\n#music #rocknroll', Los Lobos, Blues&Pop, La Bamba,La Bamba,,Neutral
+511,511,511,511,746,1/17/2019 7:17,b'RT   #NowPlaying on #2HighRadio  Drones by Unknown  on   #420music #hiphop #drumnbass #reggae #submityourmusic #2highmusic', ,rock, Drones by Unknown,,,Negative
+512,512,512,512,747,1/17/2019 7:17,b'#Nowplaying\nTouch off\nUVERworld',Hall & Oates,pop,touch off ,Big Bam Boom,,Neutral
+513,513,513,513,748,1/17/2019 7:17,b'The Who  Eminence Front #nowplaying\nListen now at ', The Who,Classic Rock, Eminence Front, It's Hard,,Neutral
+514,514,514,514,750,1/17/2019 7:17,b'99 Luftballons by Nena  #NowPlaying',Nena,rock,Luftballons,Nena Live,,Neutral
+515,515,515,515,751,1/17/2019 7:17,b'RT   #NowPlaying Bring It Back  by Jae Millz (Feat Jadakiss  #KeepingTheMusicInMotion #ListenLive #',Jae Millz,Rap,Bring It Back , Jae Millz,,Neutral
+516,516,516,516,752,1/17/2019 7:17,b'#nowplaying Je M en Veux  Archet Casse (Sainte Pop  la Souterraine Synthetique  2016  ',Archet Casse,Rap,Je M'en Veux,Archet Casse,,Neutral
+517,517,517,517,753,1/17/2019 7:17,b'#NowPlaying Nothing Left Ft Will Heard  Unknown',Kygo,Electronic,Nothing Left, Cloud Nine,,Negative
+518,518,518,518,755,1/17/2019 7:17,"b""#NowPlaying Wyclef Jean feat The Rock  It Doesn't Matter On Atlantic Radio Uk #Hits""",Wyclef Jean,Pop, It Doesn't Matter On,The Ecleftic: 2 Sides II a Book,,Neutral
+519,519,519,519,756,1/17/2019 7:17,"b'Now Playing ""Pikmin Enemy Reel by Hajime Wakai\n#NowPlaying \n'",Hajime Wakai,Anime,Pikmin Enemy Reel ,Hajime Wakai,,Neutral
+520,520,520,520,762,1/17/2019 7:17,b'be myself by petit milady #NowPlaying',petit milady,POP,be myself,petit milady,,Neutral
+521,521,521,521,764,1/17/2019 7:16,b'RT   #NowPlaying Melody Lee by The Damned',The Damned,Industrial,Melody Lee,Machine Gun Etiquette,,Neutral
+522,522,522,522,766,1/17/2019 7:16,b'#NowPlaying #TranceFamily #Trance Hazem Beltagui  Curfew  Original Mix  ',Hazem Beltagui,pop,Curfew,Trance,,Positive
+523,523,523,523,768,1/17/2019 7:16,b'RT  _u_8 Super Powers  Right NowV6 avexV6REQUEST ', V6,rock,Right Now,Super Powers,,Positive
+524,524,524,524,769,1/17/2019 7:16,b'RT   #NowPlaying\n\n#MoreThanThat by      Listen here  ', Backstreet Boys,Electronic,more than that , Black & Blue,,Neutral
+525,525,525,525,770,1/17/2019 7:16,b'#NowPlaying Bring It Back  by Jae Millz (Feat Jadakiss  #KeepingTheMusicInMotion ',Jae Millz,Rap,Bring It Back ,Jadakiss,,Neutral
+526,526,526,526,774,1/17/2019 7:16,b'#NowPlaying So Very Hard To Go by Tower of Power on #UrbanRadio Greatest Hits R&amp;B ', Tower of Power,Funk,So Very Hard To Go, Tower of Power,,Positive
+527,527,527,527,775,1/17/2019 7:16,"b'RT  _5Radio #Trending #Music ""Congratulations by ""Post Malone feat Quavo""\n#NowPlaying '",Post Malone,Rap,Congratulations,Stoney,,Neutral
+528,528,528,528,776,1/17/2019 7:16,b'RT   #NowPlaying Jesus Loves Me (Groovy RMX by  ',Listener Kids,Children's Music,jesus loves me,Let It Shine,,Neutral
+529,529,529,529,777,1/17/2019 7:16,b'#NowPlaying Stir Fry by Migos on #UrbanRadio Hip Hop and R&amp;B ',Migos,Rap,Stir Fry, Culture II,,Neutral
+530,530,530,530,778,1/17/2019 7:16,b'#NowPlaying Beyond Creation     Omnipresent Perception  #Canada #Radio #webplayer ',Beyond Creation ,Metal,Omnipresent Perception,The Aura,,Neutral
+531,531,531,531,779,1/17/2019 7:16,b'Lagu Hari Ini  GAC (Gamalil Audrey Cantika #NowPlaying #IstaraFM [14:16 wib]',Gamalil Audrey Cantika,Rock,Lagu Hari Ini ,RESONANCE,,Neutral
+532,532,532,532,781,1/17/2019 7:16,b'#nowplaying letlive  Good Mourning America',letlive,Metal,  Good Mourning America, If I'm the Devil...,,Positive
+533,533,533,533,783,1/17/2019 7:16,b'#Nowplaying REVOLUTION  coldrain (REVOLUTION  Single ',coldrain ,Rock,REVOLUTION  ,REVOLUTION  ,,Negative
+534,534,534,534,784,1/17/2019 7:16,"b""#NowPlaying the video A'oul Ansak by  _SAMAHA on #Anghami   """,Carole Samaha,Rock,A'oul Ansak ,Hodoudy El Sama,,Neutral
+535,535,535,535,785,1/17/2019 7:16,b'#NowPlaying Hang On(ft Kierra Sheard by GEI on #UrbanRadio Gospel Hits ',GEI,Christian,Hang On,GEI Live,,Neutral
+536,536,536,536,786,1/17/2019 7:16,b'#NowPlaying Arcangel ft J Balvin  Corte Porte  Elegancia En  #elblokeradio',Arcangel,hip-pop,Corte Porte  Elegancia,J Balvin,,Neutral
+537,537,537,537,787,1/17/2019 7:16,b'#NowPlaying on   Atomic Garden ',Bad Religion,pop,Atomic Garden ,Atomic Garden ,,Neutral
+538,538,538,538,788,1/17/2019 7:16,b'Check out the album Soul Searching by Chef Izzy with features from Woe D   &amp Cee Baby   and beats f ', Chef Izzy,pop,Soul Searching,Soul Searching,,Neutral
+539,539,539,539,789,1/17/2019 7:16,b'RT   The mindless illusion project full album by Adiv Williams on #Spotify #spotifyplaylist #newalbum',David Williams,rock,The mindless, illusion project,,Positive
+540,540,540,540,791,1/17/2019 7:16,b'#NowPlaying The World Bank by Aus-Rotten',Aus-Rotten,rock,The World Bank,Aus-Rotten ...And Now Back to Our Programming,,Neutral
+541,541,541,541,792,1/17/2019 7:16,"b'#NowPlaying ""Creep by Radiohead on   '",Radiohead,Alternative,Creep ,Pablo Honey,,Neutral
+542,542,542,542,793,1/17/2019 7:16,b'#nowplaying Everything U Need (Giom Mix by Kristof Tigran',Everything U Need,pop,Kristof Tigran, Giom Mix ,,Neutral
+543,543,543,543,794,1/17/2019 7:16,"b'#nowplaying ""Tame Impala  Why Won\'t You Make Up Your Mind [Live] from the album [Currents [Live [Bonus Disc]] #tameimpala'",Tame Impala,Alternative,why won't you make up your mind, Innerspeaker,,Positive
+544,544,544,544,795,1/17/2019 7:16,b'#NowPlaying Noir Dsir  L-Bas (Album Version ',Noir Desir,rock, LE-Bas ,LE-Bas,,Neutral
+545,545,545,545,796,1/17/2019 7:16,"b""#NowPlaying #Kalmah  Burbot's Revenge    #playstation #PlayStation4 #PS2 #PS1 #PS3 #playstat""", Kalmah,Metal ,Burbot's Revenge,Swampsong,,Neutral
+546,546,546,546,797,1/17/2019 7:16,"b'#Trending #Music ""Congratulations by ""Post Malone feat Quavo""\n#NowPlaying '",Post Malone,Hip-Hop,Congratulations,Stoney,,Neutral
+547,547,547,547,799,1/17/2019 7:15,b'#Nowplaying Valio La Pena by Marc Anthony en #LaMega105',Marc Anthony,Tropical,Valio La Pena ,Amar Sin Mentiras,,Neutral
+548,548,548,548,800,1/17/2019 7:15,b'#NowPlaying Keep on Truckin By Hot Tuna  on ',Hot Tuna,rock,Keep on Truckin, ,,Positive
+549,549,549,549,801,1/17/2019 7:15,b'#NowPlaying CVCV CV CV CVCV ', ,rock, CVCV CV CV CVCV, ,,Neutral
+550,550,550,550,802,1/17/2019 7:15,b'Sirenas de Taburete  #NowPlaying',Taburete,Pop,Sirenas de Taburete, Dr. Charas,,Neutral
+551,551,551,551,803,1/17/2019 7:15,b'#NowPlaying Woman Like Me by   listen at  ', Little Mix,R&B/Soul,Woman Like Me,LM5,,Neutral
+552,552,552,552,804,1/17/2019 7:15,b'#NowPlaying  Simple Minds  Celebrate  Empires And Dance  #ListenNow at  Buy song ',Simple Minds,dance-rock‎,Empires And Dance,Simple Minds,,Neutral
+553,553,553,553,805,1/17/2019 7:15,b'#NowPlaying Come Back Baby by Ed Wizard &amp Disco Double Dee on Zay FM for those seeking a different #EclecticVibe ', Ed Wizard,disco,Come Back Baby,,,Neutral
+554,554,554,554,806,1/17/2019 7:15,b'#NowPlaying I Like It by   at  ',Cardi B,Latin trap,I Like It,,,Neutral
+555,555,555,555,807,1/17/2019 7:15,b'#NowPlaying Otis Hayes Iii  Morning Light : Tune In    Buy It  ',Otis Hayes,Smooth Jazz, Morning Light,,,Positive
+556,556,556,556,808,1/17/2019 7:15,b'#NOWPLAYING Tamara Bubble  Your Favorite Rapper is a Girl  Rumors Circle Radio  ',Tamara Bubble,Hip-Hop/Rap,Tamara Bubble,Your Favorite Rapper Is a Girl,,Positive
+557,557,557,557,809,1/17/2019 7:15,b'#NowPlaying I Dont Wanna Know by KALASH &amp CECILE #listen online on   Urban Reggae ',KALASH,rap,I Dont Wanna Know,,,Neutral
+558,558,558,558,810,1/17/2019 7:15,b'#NowPlaying on #70vibefm The Thrill Is Gone by    Why not visit our site  ',B.B. King, Blues,The Thrill Is Gone,,,Neutral
+559,559,559,559,811,1/17/2019 7:15,b'#NowPlaying On Your Own by   on the home for Independent Hip Hop and R&amp;B 804live Radio courtesy of Dyna ',Jorja Smith,R&B/Soul,on your own,Lost & Found,,Positive
+560,560,560,560,812,1/17/2019 7:15,b'#NowPlaying It Is Finished  James Tealy on   #ChroniclesChristianRadio #ccradioco',James Tealy,rock,It Is Finished,,,Neutral
+561,561,561,561,813,1/17/2019 7:15,b'Currently #NowPlaying On GSCC Radio Billie Jean  Michael Jackson',michaeljacks,rock,Billie Jean,,,Neutral
+562,562,562,562,815,1/17/2019 7:15,b'#NowPlaying    For Your Glory via #PraiseworldRadio\n\nTune in!!!', ,rock,For Your Glory via,,,Neutral
+563,563,563,563,816,1/17/2019 7:15,"b'#NowPlaying ""Purge by Bas in   \n '",Bas, Hip-Hop,Purge,,,Neutral
+564,564,564,564,817,1/17/2019 7:15,b'RT   #NowPlaying Melody Lee by The Damned',The Damned,Goth/Industrial,Melody Lee,Machine Gun Etiquette,,Neutral
+565,565,565,565,819,1/17/2019 7:15,b'Good Vibrations by The Beach Boys  #nowplaying #6music',The Beach Boys,rock,Good Vibrations,Good Vibrations,,Positive
+566,566,566,566,820,1/17/2019 7:15,b'NE1fm 102.5 is #NowPlaying  Straight To My Head by You Me At Six',You Me At Six,Alternative/Indie, You Me At Six,VI,,Positive
+567,567,567,567,821,1/17/2019 7:15,b'The Beach Boys  Good Vibrations  #NowPlaying #6music',The Beach Boys,rock,Good Vibrations,Good Vibrations,,Positive
+568,568,568,568,822,1/17/2019 7:15,"b'Currently tuned into ""Three Zero by TrixX K  #nowplaying at '",TrixX K song,rock,Three Zero,,,Neutral
+569,569,569,569,823,1/17/2019 7:15,b'#NowPlaying #7th_Heart   ', ,rock,7th_Heart,,,Neutral
+570,570,570,570,824,1/17/2019 7:15,"b""2 Bad Mice  Bombscare (Tall Paul's Compression Mix is #NowPlaying on  """,Tall Paul's,rock,Bad Mice  Bombscare,,,Positive
+571,571,571,571,826,1/17/2019 7:15,b'RT    \n\nJAEJOONG Photo People in Tokyo \n19( 23:20 Start\n\n #Defiance #Nowplaying #PhotoPeople2 ', ,rock,JAEJOONG Photo People in Tokyo ,,,Neutral
+572,572,572,572,827,1/17/2019 7:15,"b'#NowPlaying  02:14:17 ET ""Love Is On The Way by Glass Tiger from ""Then...NOW...Next (2012)'",Saigon Kick,Hard Rock,Love Is On The Way,The Lizard,,Negative
+573,573,573,573,830,1/17/2019 7:15,b'#NowPlaying Tatum Rush  Mini Girls ',Tatum Rush,Pop,Mini Girls,Pschent music,,Neutral
+574,574,574,574,831,1/17/2019 7:15,b'#NowPlaying Lifted',Lighthouse Family,Vocal/Easy Listening,Lifted,Ocean Drive,,Neutral
+575,575,575,575,832,1/17/2019 7:15,b'#NowPlaying Sugarhill Gang  The Lover In You Sugarhill Gang \nLRdR  Radio Hits dcouvertes   ',The Sugarhill Gang,Dance/Electronic,The Lover In You Sugarhill Gang,Rappin' Down Town,,Neutral
+576,576,576,576,833,1/17/2019 7:15,b'#NowPlaying Jeremy Camp  Letting Go on ',Jeremy Camp,Christian/Gospel,Letting Go,Burden Me,,Neutral
+577,577,577,577,834,1/17/2019 7:14,b'#nowplaying   plenty  plenty ',Moelogo,rock, plenty plenty,Ireti,,Neutral
+578,578,578,578,836,1/17/2019 7:14,b'#NowPlaying Brielle  IAmStillYourGirl : Tune In ',Brielle,rock,I Am Still Your Girl,,,Neutral
+579,579,579,579,837,1/17/2019 7:14,b'Tune in here   (Dj Safiter remix by Grivina  #marbella #marbs #vocaldeephouse ',Grivina,Electropop,tune in here, ,,Neutral
+580,580,580,580,838,1/17/2019 7:14,b'RT   Rowdy Baby by Yuvan Shankar Raja Dhanush Dhee  #NowPlaying',Dhanush&Dhee,Dance/Electronic,Rowdy Baby,Maari 2,,Neutral
+581,581,581,581,839,1/17/2019 7:14,b'#NowPlaying doriko feat    ALBUM unformed',doriko,rock, doriko feat   ,,,Neutral
+582,582,582,582,840,1/17/2019 7:14,b'#NowPlaying Habibaha by   on #Anghami ',Abdel Halim Hafez,Classical,Habibaha,Mazzika,,Neutral
+583,583,583,583,841,1/17/2019 7:14,b'#NowPlaying Sunshine by Ali Hugo on #UrbanRadio NewMusicInsite ',Ali Hugo on,Smooth Jazz,Sunshine,,,Neutral
+584,584,584,584,842,1/17/2019 7:14,"b'#nowplaying   presents ""UKHH X Deejay LoK 2019 mix 01 at '",Deejay,rock,"presents """"UKHH X Deejay LoK 2019 mix",,,Neutral
+585,585,585,585,843,1/17/2019 7:14,"b""RT   Writing's on the Wall by Conchita Wurst Wiener Symphoniker  #NowPlaying #np #ConchitaFVWL #LOVE""", Thomas Neuwirth&Vienna Symphony Orchestra,Pop,Writing's on the Wall, From Vienna with Love,,Negative
+586,586,586,586,844,1/17/2019 7:14,b'#NowPlaying Ni Tu Ni Yo by Sergio Vargas on ',Sergio Vargas,rock,Ni Tu Ni Yo,Mi Propuesta 1996,,Neutral
+587,587,587,587,845,1/17/2019 7:14,b'#NowPlaying on  Love Lies by  ',Khalid&Normani,rock,Love Lies, Love&Simon (Original Motion Picture Soundtrack),,Positive
+588,588,588,588,846,1/17/2019 7:14,"b""#NowPlaying Jeff Caron  Someday I'll Be Saturday Night on Summer Wind Radio #troprock #parrothead #troprockmusic""",Jeff Caron,rock,Someday I'll Be Saturday Night on Summer Wind Radio,,,Neutral
+589,589,589,589,849,1/17/2019 7:14,b'#NowPlaying Anthony Brown and Group TherApy  Testimony : Tune In ', Anthony Brown and group therAPy,Christian/Gospel,Testimony,Anthony Brown & group therAPy,,Neutral
+590,590,590,590,850,1/17/2019 7:14,b'#NowPlaying Te Bote Remix [XBQ  Nio Garcia Darell Casper Magico Bad Bunny Ozuna Nicky Jam solo por ',Nicky Jam and Ozuna,‎Reggaeton,te bote,,,Negative
+591,591,591,591,851,1/17/2019 7:14,b'#nowplaying TROISANGES  Silent Dystopia  Re:  Lumiere  EP ',TROISANGES,rock,Silent Dystopia,,,Neutral
+592,592,592,592,852,1/17/2019 7:14,b'RT   #NowPlaying #tanzanianlove by  \nOur #bubblingunder song for this week!!\n\nHelp him get on the charts by votin', ,rock,tanzanianlove,,,Neutral
+593,593,593,593,853,1/17/2019 7:14,b'RT   #NowPlaying #takeasip by   ft   &amp  \nOur second  #bubblingunder song for this week!!', ,rock,takeasip,,,Neutral
+594,594,594,594,854,1/17/2019 7:14,b'#CHITOWN #HOUSE #RADIO  #TuneIn   or  #NowPlaying  Live on Slammin ', ,rock, Live on Slammin,,,Positive
+595,595,595,595,855,1/17/2019 7:14,b'#NowPlaying The Lonely Bard  Levente',Levente,New Age,the lonely bard,Tales From Time,,Negative
+596,596,596,596,856,1/17/2019 7:14,b'#NowPlaying A New Flame [f34  Simply Red',Simply Red,Pop music,new flame,Simply Red,,Positive
+597,597,597,597,857,1/17/2019 7:14,"b""#NowPlaying I'm Still In Love With You by Al Green on #UrbanRadio Soul Hits Station """,Al Green,Soul music,I'm Still in Love with You,Al Green,,Negative
+598,598,598,598,858,1/17/2019 7:14,b'#NowPlaying Live to Tell by  _coil on #Anghami ',Lacuna Coil,Alt Metal,Live to Tell, Delirium,,Positive
+599,599,599,599,859,1/17/2019 7:14,b'#NowPlaying Live to Tell by  _coil on #Anghami ',Lacuna Coil,Alt Metal,Live to Tell, Delirium,,Positive
+600,600,600,600,860,1/17/2019 7:14,b'#NowPlaying Jon Bellion   All Time Low  #SWIFTWAVERADIO Listen Live',Jon Bellion,Pop rock&Electropop,All Time Low, The Human Condition,,Positive
+601,601,601,601,861,1/17/2019 7:14,b'-Hey Say JUMP #Nowplaying', ,rock,Hey Say JUMP,,,Neutral
+602,602,602,602,862,1/17/2019 7:14,b'The Jam  Going Underground  #NowPlaying #6music', The Jam,rock,Going Underground,Setting Sons,,Neutral
+603,603,603,603,863,1/17/2019 7:14,"b'Now Playing ""Orgon Box (Secret Life Mix  Something Wonderful)   (Album  ""Mental Sports Mixes"" #NowPlaying'", ,rock,Orgon Box (Secret Life Mix  Something Wonderful),Mental Sports Mixes,,Negative
+604,604,604,604,864,1/17/2019 7:14,b'#Nowplaying No Limit   ()', G-Eazy,Hip-Hop/Rap,No Limit, The Beautiful & Damned,,Neutral
+605,605,605,605,865,1/17/2019 7:14,b'#NowPlaying Kathleen by Catfish and the Bottlemen  #alternative #alternativerock ', Catfish And The Bottlemen,Alternative/Indie&Rock,Kathleen, The Balcony,,Neutral
+606,606,606,606,866,1/17/2019 7:14,b'#nowplaying Bagg Talk by Kang Leezy via   ',Kang Leezy,Pop,Bagg Talk, ,,Neutral
+607,607,607,607,868,1/17/2019 7:14,"b'#NowPlaying ""Self Destruction by Boogie on   \n  Omg off Teq? Mood'",Boogie on,rock,Self Destruction,  ,,Neutral
+608,608,608,608,869,1/17/2019 7:14,b'#NowPlaying Beverley Knight  Keep This Fire Burning #thewayradioshouldbe #hitmusic #top40 #Radio #music ',Beverley Knight,R&B/Soul,Keep This Fire Burning,Affirmation,,Neutral
+609,609,609,609,870,1/17/2019 7:14,"b'#NowPlaying Sean Price Feat Tek  Onion Head on     ""LIVE HIP HOP MUSIC 24/7 '",Sean Price,rock,Feat Tek  Onion Head,,,Negative
+610,610,610,610,871,1/17/2019 7:14,b'#NowPlaying Fire Fight  Voices on   #radio #LasVegas.. Tune In Here  ', ,rock,Fire Fight  Voices on ,,,Neutral
+611,611,611,611,872,1/17/2019 7:14,b'#NowPlaying TAXI GIRL  Mannekin Mannekin TAXI GIRL TAXI GIRL  Mannekin',Taxi Girl,rock,TAXI GIRL,Cherchez le garçon,,Neutral
+612,612,612,612,873,1/17/2019 7:14,b'Los Dynamite  Visions  #NowPlaying',Los Dynamite,rock,Los Dynamite Visions,Greatest Hits ,,Neutral
+613,613,613,613,876,1/17/2019 7:13,b'#NowPlaying TrippyTroy-Closure by TrippyTroy',TrippyTroy,rock,TrippyTroy-Closure, ,,Neutral
+614,614,614,614,877,1/17/2019 7:13,"b'#NowPlaying ""Deja Vu by Boogie in   \n '",A Boogie wit da Hoodie,Hip-Hop/Rap,Deja Vu,International Artist,,Neutral
+615,615,615,615,878,1/17/2019 7:13,b'#NowPlaying Freemasons  Freemasons', ,rock,Freemasons  Freemasons,,,Neutral
+616,616,616,616,879,1/17/2019 7:13,b'#nowplaying 6cm by  ', ,rock,6cm by ,,,Neutral
+617,617,617,617,880,1/17/2019 7:13,b'#MorningSession (07-14 CET) Good vibes #nowplaying Retropop Chill-Out &amp Lounge Come on board ', ,rock, Retropop Chill-Out,,,Positive
+618,618,618,618,881,1/17/2019 7:13,b'RT  _daisensei \n\n\n#NowPlaying \n#JHaudio \n#AstellnKern \n#ONEOKROCK ', , Power pop,ONEOKROCK,,,Neutral
+619,619,619,619,883,1/17/2019 7:13,b'#NowPlaying The Light by Common on #UrbanRadio Old School R&amp;B ',Common,Hip-Hop/Rap,The Light,Like Water for Chocolate,,Positive
+620,620,620,620,884,1/17/2019 7:13,b'Bury Me In Gold by Big K.R.I.T  #NowPlaying', Big K.R.I.T., Hip-Hop/Rap,Bury Me In Gold, 4eva Is a Mighty Long Time,,Neutral
+621,621,621,621,885,1/17/2019 7:13,b'  Hosted by Tina Marie Caouette  The Grind Liner 3  #KCOR  #NowPlaying #LasVegas #Radio #NewMusic #TalkRadio', ,rock,The Grind Liner 3,,,Neutral
+622,622,622,622,886,1/17/2019 7:13,b'#nowplaying Jigsaw Falling Into Place  Radiohead (In Rainbows  2007  ',Radiohead,rock,Jigsaw Falling Into Place,In Rainbows,,Neutral
+623,623,623,623,887,1/17/2019 7:13,b'RT  _51 KIM JAE JOONG J-PARTY &amp MINI CONCERT in HONG KONG\n\nASIAWORLD-EXPO RUNWAY 11 (HALL 11)\n2019.03.09 PM 7:30\nHK$1480/1080/780\n\n#', ,rock, KIM JAE JOONG J-PARTY,,,Neutral
+624,624,624,624,888,1/17/2019 7:13,b'Si travay te bon bagay moun rich ta pran-l lontan\n#nowplaying #haiti', ,rock,travay te bon bagay moun rich ta pran-l lontan,,,Positive
+625,625,625,625,889,1/17/2019 7:13,b'RT  _51 KIM JAE JOONG J-PARTY &amp MINI CONCERT in HONG KONG\n\nASIAWORLD-EXPO RUNWAY 11 (HALL 11)\n2019.03.09 PM 7:30\nHK$1480/1080/780\n\n#', ,rock, KIM JAE JOONG J-PARTY,,,Neutral
+626,626,626,626,890,1/17/2019 7:13,"b'Tuned into ""DJ KYM NICKDEE  THE DOPE VOL.22 by Dj Kym NickDee at  #nowplaying'",DJ KYM NICKDEE,rock, THE DOPE,,,Neutral
+627,627,627,627,891,1/17/2019 7:13,b'RT   #nowplaying Funk   _App', ,rock,Funk   _App',,,Neutral
+628,628,628,628,892,1/17/2019 7:13,b'RT  _51 \nAyingEntertainment weibo\n2019 KIM JAEJOONG J-PARTY&amp;MINI CONCERT in HK\n\n\n  #', ,rock,AyingEntertainment weibo,,,Neutral
+629,629,629,629,893,1/17/2019 7:13,b'RT    \n\nJAEJOONG Photo People in Tokyo \n19( 23:20 Start\n\n #Defiance #Nowplaying #PhotoPeople2 ', ,rock,Photo People in Tokyo,,,Neutral
+630,630,630,630,895,1/17/2019 7:13,b'#NowPlaying  \nFear and Loathing in Lasvegas  Keep the Heat and Fire Yourself Up ',Fear and Loathing in Las Vegas,Alternative/Indie,Keep the Heat and Fire Yourself Up,,,Neutral
+631,631,631,631,896,1/17/2019 7:13,b'#NowPlaying Boys Town..... who knew by Ryan Croft Tune in now at   ',Ryan Croft ,rock,Boys Town..... who knew,,,Neutral
+632,632,632,632,897,1/17/2019 7:13,b'#NowPlaying Only You by 112 on #UrbanRadio Old School Hip Hop ', ,rock,Only You,  ,,Positive
+633,633,633,633,898,1/17/2019 7:13,"b'""Ripple  Deadgrass  8/22/18  Relix Studio Sessions  #newsong #nowplaying #spotify #kexp '", ,rock,"Ripple  Deadgrass,
+899,ChopSlap, ,GFriend&Sunrise,
+900, Tony! Toni! Toné!,Contemporary R&B,Whatever You Want LISTEN HERE, The Revival
+901, , ,Good music good people,
+902, , , EGOIST,
+903,SamSmith,Pop music,Dance with a Stranger,
+905,Anuel AA, ,Ella Quiere,Real Hasta la Muerte
+906, , ,51 KIM JAE JOONG J-PARTY,
+907, , , KinKi Kids,
+908,Karen Harding, ,Kokiri Radio Remix,
+909, , ,Silvester Jump,
+910,robin gibb, ,boy do fall in love,
+911, The Three Degrees,Pop, Woman In love,New Dimensions,
+912,Pearl Jam, , Alive,
+915,KIM JAEJOONG J-PARTY, , , ,
+916,Michael Yo, ,Liner,
+917,DJ Domination,pop,DJ Domination Remix ,
+918, , ,LAVENDER,
+919,Fear and Loathing in Las Vegas,Metalcore,The Courage To Take Action, Rave Up Tonight
+920,Troye Sivan,Pop,My My My, Bloom
+921,MIGMA SHELTER, Dance/Electronic,Svaha Eraser,
+922,Broken Bells, ,High Road, Broken Bells
+924,Freedom DubBossa, ,Buffalo Soldier
+925,ZARD, Rock and Pop rock,ZARD,
+926, , ,Lanola  Mischerman's OpenAir,
+927, Aretha Franklin,Soul and R&B,Jump to It,Arista
+928, , ,On a Night Like This  The last dodo dance band,
+929, YG,Hip-Hop/Rap,BIG BANK, Stay Dangerous
+930,Mojee, ,i win,
+931,Lionel Richie and Diana Ross,Classic Soul and Contemporary R&B,ENDLESS LOVE,Why Do Fools Fall in Love
+932, , Pop,People are loving ""The Upside,
+933,Nicky Jam,pop,Reggaeton,
+934, , ,DAY DAY DAY!,
+935, Beastie Boys, Hip-Hop/Rap,Fight For Your Right, Licensed to Ill
+937, Blink-182 , ,What's My Age Again,
+938,Chris Brown,R&B/Soul,undecided,
+939,Emrand Henry, Christian/Gospel,Consume Me, No Retreat No Surrender
+940,Morrissey,pop,Black Cloud,
+941, Tim Johnson, ,Gone,
+943, ‎Bakermat, , Black Cat John Brown,
+944, John Legend,Contemporary and R&B/Soul,Darkness and Light,
+945,Critical Bill,Rock,This Is Critical, Downtown The World
+946,T. Stone, Reggae, ce soir,
+947,Lacuna Coil,Alt Metal, Swamped,Comalies
+949, The Jam,pop,Going Underground, Setting Sons
+950,Nicki Minaj,pop,You da Baddest,
+951, Sonar Pocket, J-Pop,ai  Sonar Pocket,
+952, Rini Wulandari, R&B/Soul,Let's Get Serious",I Am Independent,,Neutral
+634,634,634,634,900,1/17/2019 7:13,b'#nowplaying Tony Toni Tone  Whatever You Want LISTEN HERE   #standup #comedy #hilarious #followus #music',Tee Mango,Dance/Electronic,Enjoy What We Have  by Tee Mango,IMPERFECTIONS VOL.1,,Positive
+635,635,635,635,953,1/17/2019 7:11,b'#NowPlaying Kristina Krause  Love Song : Tune In ',Kristina Krause,rock,Love Song,,,Positive
+636,636,636,636,954,1/17/2019 7:11,"b'#NowPlaying ""Mr Bojangles  Single Version by Sammy Davis JR on   '",Sammy Davis JR,Vocal/Easy Listening,soul,,,Positive
+637,637,637,637,955,1/17/2019 7:11,b'#NowPlaying Ready Or Not by After 7 on #UrbanRadio Smooth R&amp;B ', ,rock,laying Ready Or Not by After 7,,,Positive
+638,638,638,638,956,1/17/2019 7:11,b'Stay In My Corner by The Arcs  #NowPlaying',The Arcs, Psychedelic Rock,Stay In My Corner, Yours & Dreamily,,Neutral
+639,639,639,639,957,1/17/2019 7:11,b'#NOW PLAYING\n#NowPlaying Wonderful.mp3 Aretha Franklin\n\n', Aretha Franklin,Contemporary R&B,Wonderful,So Damn Happy,,Neutral
+640,640,640,640,958,1/17/2019 7:11,b'#NowPlaying on  Trust My Lonely by  ', Alessia Cara,Pop,Trust My Lonely, The Pains of Growing,,Negative
+641,641,641,641,959,1/17/2019 7:11,b'#NowPlaying  Uncle Murda  Vibes Ft Que Banz #TheGodzillaStation #Trending',Uncle Murda,rock,Vibes Ft Que Banz,,,Neutral
+642,642,642,642,960,1/17/2019 7:11,"b""#NowPlaying We're Not Breaking by Ceasefire #discoverunsigned  """, Ceasefire,Rock,We're Not Breaking, In the Dead of Night EP,,Neutral
+643,643,643,643,961,1/17/2019 7:11,b'Calvin Richardson  Breaking Down Inside\n#NowPlaying', Calvin Richardson, R&B/Soul, Breaking Down Inside, All Or Nothing,,Positive
+644,644,644,644,962,1/17/2019 7:11,b'#NowPlaying Lowdown Feat Incognito Chaka Khan Pesni Tut  Mario Biondi', Chaka Khan and Mario Biondi,rock,Lowdown,,,Neutral
+645,645,645,645,963,1/17/2019 7:11,b'#NowPlaying Boom Town (Radio Edit by Richard Elliot', Richard Elliot, Jazz,Boom Town, In The Zone,,Neutral
+646,646,646,646,965,1/17/2019 7:11,b'NE1fm 102.5 is #NowPlaying  A Love Supreme (Radio Mix by Will Downing',Will Downing, Urban Adult Contemporary,A Love Supreme,Will Downing,,Positive
+647,647,647,647,966,1/17/2019 7:11,b'#NowPlaying on #XrayRadio Capital Kings  All Good (feat Hollyn #CapitalKings #Hollyn #LeaveAmarkOnTheWorld',Capital Kings and Hollyn,pop,  All Good,,,Positive
+648,648,648,648,967,1/17/2019 7:11,b'#NowPlaying Sinner by   on #Anghami   ', ,rock,Sinner,,,Neutral
+649,649,649,649,968,1/17/2019 7:11,b'RT   WORLDISTA220!!\nTL\n()!!\n\n#NEWS #BLUE  #NowPlaying #Strawberry\n#EPCOTIA  #SPIRIT\n#WORLDIS', ,rock,Strawberry,,,Neutral
+650,650,650,650,970,1/17/2019 7:11,b'Going Underground by The Jam  #nowplaying #6music',The Jam,rock,Going Underground,Setting Sons,,Neutral
+651,651,651,651,971,1/17/2019 7:11,"b'RT   #NowPlaying   ""PRESSURE    #HipHop #Philly #MaineTheSaint  '",Queen&David Bowie,rock,PRESSURE,Hot Space,,Neutral
+652,652,652,652,972,1/17/2019 7:11,b' #NowPlaying Dream On  Christian Falk &amp Robyn',Christian Falk,Pop,Dream On  Christian Falk &amp Robyn,People Say,,Neutral
+653,653,653,653,973,1/17/2019 7:11,b'#NowPlaying OSOM (Feat J Cole by Jay Rock   #KeepingTheMusicInMotion #ListenLive ',Jay Rock,rock,OSOM (Feat J Cole), ,,Neutral
+654,654,654,654,974,1/17/2019 7:11,b'WGT Radio #NowPlaying Way Maker by Sinach Joseph ',Sinach,Christian/Gospel,Way Maker,Way Maker (Live),,Neutral
+655,655,655,655,976,1/17/2019 7:11,b'#NowPlaying Be Lifted by MIcha Stampley on #UrbanRadio Gospel Hits ',MIcha Stampley,rock,Be Lifted, ,,Neutral
+656,656,656,656,978,1/17/2019 7:11,b'by Four-Mod  #NowPlaying', ,Pop music,Four-Mod,I AM FOUR MOD&LOVE LOVE&We Will Love U, ,Neutral
+657,657,657,657,981,1/17/2019 7:11,"b""#nowplaying letlive  I've Learned To Love Myself""",Letlive,Alt Metal,I've Learned To Love Myself,If I'm the Devil,,Negative
+658,658,658,658,982,1/17/2019 7:11,b'RT  _lee007 #nowplaying 1 2 3   ', ,rock,RT  _lee007, ,,Neutral
+659,659,659,659,983,1/17/2019 7:11,b'Coward Of The County  Remastered 2006 by Kenny Rogers  #NowPlaying',Kenny Rogers,Country music,Coward Of The County,Kenny,,Neutral
+660,660,660,660,984,1/17/2019 7:11,b'#NowPlaying First Last My Everything by Barry White on #UrbanRadio Soul Hits Station ',Barry White, ‎R&B‎;‎disco,First Last My Everything, ,,Positive
+661,661,661,661,985,1/17/2019 7:11,b'#NowPlaying Aretha Franklin  Are you sure',Aretha Franklin,Pop,Aretha Franklin  Are you sure,Aretha,,Negative
+662,662,662,662,986,1/17/2019 7:11,b'[NOA]:(2019/01/17 16:09 make my day     SUPER RADIO MONSTER   #nowplaying',Bashy and NAPT,Hip-Hop/Rap,make my day, ,,Negative
+663,663,663,663,987,1/17/2019 7:11,b'#NowPlaying Wild Thoughts by DJ Khaled on #UrbanRadio Hip Hop ',DJ Khaled,rock,Wild Thoughts,Grateful,,Positive
+664,664,664,664,988,1/17/2019 7:10,b'#NowPlaying Cool Down (Dirty by Mr Wired Up  Listen On  or Download #MixtapeHeat App ', ,rock,Cool Down (Dirty by Mr Wired Up), ,,Negative
+665,665,665,665,989,1/17/2019 7:10,"b'#nowplaying ""Drive Drive [Live] from  Feel a heartbeat Vol 1 [Li '", ,rock, Drive Drive, ,,Negative
+666,666,666,666,991,1/17/2019 7:10,b'#NOWPLAYING OFF THE BOAT Circle Radio  ', ,rock,OFF THE BOAT Circle Radio, ,,Neutral
+667,667,667,667,992,1/17/2019 7:10,b'#NowPlaying Vandell Andrew  The Groove : Tune In    Buy It  ',Vandell Andrew,Jazz,The Groove,30,,Neutral
+668,668,668,668,993,1/17/2019 7:10,b'#nowPlaying  Irene Logan  Na Me Dey There ft Asem on Ghana Music Radio Just tune in  Fo ', ,rock,  Irene Logan  Na Me Dey There ft Asem on Ghana, ,,Neutral
+669,669,669,669,994,1/17/2019 7:10,b'RT    #EPCOTIA   \n #happening \n.. #WORLDISTA', ,rock,EPCOTIA,EPCOTIA,,Neutral
+670,670,670,670,995,1/17/2019 7:10,b'#NowPlaying Top Ten Music Videos of the 80s by  on  in #RVA  Please Like &amp RT #80sChildRadio', ,rock, Top Ten Music Videos of the 80s by  on  in #RVA  Please Like &amp RT #80sChildRadio, ,,Positive
+671,671,671,671,996,1/17/2019 7:10,b'Zero Cult  Utopia Train  #nowplaying',Zero Cult,Dance/Electronic,Zero Cult Utopia Train,Ikebana,,Neutral
+672,672,672,672,997,1/17/2019 7:10,b'#NowPlaying Elephants by PHCK on ', ,rock,Elephants, ,,Neutral
+673,673,673,673,999,1/17/2019 7:10,b'Just Awake by Fear and Loathing in Las Vegas #NowPlaying ',Fear and Loathing in Las Vegas,Alt Metal,Just Awake by Fear and Loathing in Las Vegas,All That We Have Now,,Neutral
